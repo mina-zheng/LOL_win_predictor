@@ -1,0 +1,810 @@
+match_id,ally_champs,enemy_champs,win
+NA1_5185567216,"['Gnar', 'Sylas', 'Yone', 'Swain', 'Pyke']","['Irelia', 'Morgana', 'AurelionSol', 'Ezreal', 'Karma']",0.0
+NA1_5180652078,"['Tryndamere', 'Sylas', 'Gragas', 'Jinx', 'Lulu']","['Olaf', 'Graves', 'Talon', 'Ekko', 'Zoe']",1.0
+NA1_5180485659,"['Brand', 'Vi', 'Katarina', 'Ashe', 'Janna']","['Gwen', 'XinZhao', 'Yone', 'Jhin', 'Karma']",1.0
+NA1_5179443546,"['Rengar', 'Warwick', 'Aurora', 'Kalista', 'Braum']","['Nocturne', 'Jayce', 'AurelionSol', 'Jinx', 'TahmKench']",0.0
+NA1_5176501395,"['DrMundo', 'Sylas', 'Chogath', 'Thresh', 'Caitlyn']","['Shen', 'Viego', 'Naafiri', 'KogMaw', 'Janna']",0.0
+NA1_5176336691,"['Kennen', 'Zyra', 'Qiyana', 'Kaisa', 'Poppy']","['Fiora', 'Rammus', 'Ambessa', 'Aphelios', 'Elise']",0.0
+NA1_5176306794,"['Malphite', 'Sylas', 'Yone', 'Kalista', 'Maokai']","['Jayce', 'XinZhao', 'Ahri', 'Yasuo', 'Poppy']",1.0
+NA1_5176282883,"['Jayce', 'Sylas', 'Yone', 'Jhin', 'Nautilus']","['Jax', 'Rengar', 'Annie', 'Ashe', 'Braum']",1.0
+NA1_5176234308,"['Vladimir', 'Karthus', 'Viego', 'Caitlyn', 'Milio']","['Gnar', 'Graves', 'Zac', 'Jhin', 'Sona']",1.0
+NA1_5171790939,"['Yasuo', 'Illaoi', 'TwistedFate', 'Caitlyn', 'KogMaw']","['Yone', 'Nautilus', 'Warwick', 'Seraphine', 'Jinx']",0.0
+NA1_5171317341,"['MonkeyKing', 'Nidalee', 'Yone', 'Draven', 'Leona']","['Ambessa', 'Khazix', 'Azir', 'Hwei', 'Rakan']",1.0
+NA1_5171295324,"['Sylas', 'Graves', 'Galio', 'Caitlyn', 'Yuumi']","['Jax', 'Diana', 'Veigar', 'Yasuo', 'Rell']",0.0
+NA1_5170507177,"['Zac', 'Nasus', 'Sylas', 'Caitlyn', 'Leona']","['Teemo', 'Viego', 'Corki', 'Seraphine', 'Nami']",0.0
+NA1_5170477756,"['Sylas', 'Nidalee', 'Jayce', 'Smolder', 'Alistar']","['Swain', 'MonkeyKing', 'Zyra', 'Draven', 'Nautilus']",1.0
+NA1_5167365938,"['Azir', 'Hecarim', 'Sylas', 'KogMaw', 'Milio']","['Yone', 'JarvanIV', 'Veigar', 'Jhin', 'Blitzcrank']",0.0
+NA1_5167320761,"['Irelia', 'MonkeyKing', 'Sylas', 'Caitlyn', 'Zyra']","['Ambessa', 'Khazix', 'Galio', 'Seraphine', 'Karma']",1.0
+NA1_5167275990,"['Aatrox', 'Nunu', 'Sylas', 'Lux', 'Pyke']","['Renekton', 'Viego', 'Naafiri', 'Seraphine', 'Zyra']",0.0
+NA1_5167037216,"['MonkeyKing', 'Viego', 'Sylas', 'Lux', 'Yuumi']","['Aatrox', 'Kindred', 'Yasuo', 'Syndra', 'Blitzcrank']",1.0
+NA1_5167010741,"['Jax', 'RekSai', 'Azir', 'Smolder', 'Camille']","['Sett', 'Rammus', 'Zoe', 'Jhin', 'Nami']",0.0
+NA1_5204008485,"['Jayce', 'Lillia', 'Galio', 'Varus', 'TahmKench']","['KSante', 'Udyr', 'Azir', 'Ashe', 'Nautilus']",1.0
+NA1_5203968654,"['Jayce', 'Belveth', 'Sylas', 'Ashe', 'Nautilus']","['Cassiopeia', 'MonkeyKing', 'Taliyah', 'Varus', 'Janna']",1.0
+NA1_5203920983,"['Jayce', 'Graves', 'Hwei', 'Ezreal', 'Karma']","['Fiora', 'Viego', 'Leblanc', 'Kalista', 'Neeko']",1.0
+NA1_5203883089,"['Garen', 'LeeSin', 'AurelionSol', 'Corki', 'Leona']","['Akali', 'Skarner', 'Yone', 'Ezreal', 'Karma']",1.0
+NA1_5203845274,"['Jayce', 'Viego', 'Aurora', 'Lucian', 'Nami']","['KSante', 'Qiyana', 'Syndra', 'Ezreal', 'Senna']",0.0
+NA1_5203365188,"['Maokai', 'Kindred', 'Syndra', 'Jhin', 'Rell']","['Viktor', 'Viego', 'Zilean', 'Vayne', 'Bard']",1.0
+NA1_5203345105,"['Jayce', 'Skarner', 'Kassadin', 'Hwei', 'Leona']","['Ambessa', 'Rengar', 'Zilean', 'Jinx', 'Milio']",0.0
+NA1_5203328092,"['Jayce', 'Lillia', 'Orianna', 'Corki', 'Rell']","['KSante', 'Hecarim', 'Taliyah', 'Jinx', 'Thresh']",1.0
+NA1_5203308855,"['Nasus', 'Sylas', 'Naafiri', 'Viktor', 'Rell']","['Jayce', 'MonkeyKing', 'Akali', 'Corki', 'Janna']",0.0
+NA1_5203277245,"['Jayce', 'JarvanIV', 'Akali', 'Caitlyn', 'Janna']","['Aatrox', 'Qiyana', 'Sylas', 'Jhin', 'Bard']",0.0
+NA1_5203236061,"['Jayce', 'LeeSin', 'Sylas', 'Aphelios', 'Thresh']","['Yone', 'Gwen', 'Lissandra', 'Corki', 'Blitzcrank']",1.0
+NA1_5203195424,"['Jayce', 'Nidalee', 'Talon', 'Jhin', 'Blitzcrank']","['Malphite', 'Viego', 'Leblanc', 'Caitlyn', 'Braum']",1.0
+NA1_5203161867,"['Jayce', 'Kindred', 'Syndra', 'Zyra', 'Blitzcrank']","['Malphite', 'Graves', 'Aurora', 'MissFortune', 'Leona']",1.0
+NA1_5203110145,"['Jayce', 'Vi', 'Viktor', 'Jinx', 'Neeko']","['Gragas', 'Viego', 'Sylas', 'Ezreal', 'Karma']",1.0
+NA1_5203080137,"['Ryze', 'JarvanIV', 'Jax', 'Kalista', 'Neeko']","['Jayce', 'MasterYi', 'Sylas', 'Ashe', 'Zyra']",1.0
+NA1_5203041819,"['Jayce', 'Nidalee', 'Lux', 'Ashe', 'Blitzcrank']","['Irelia', 'Graves', 'Galio', 'Hwei', 'Karma']",1.0
+NA1_5203012706,"['Jax', 'Kindred', 'Lux', 'Jhin', 'Poppy']","['Akali', 'Graves', 'Aurora', 'Ezreal', 'Janna']",1.0
+NA1_5202991222,"['Renekton', 'Lillia', 'AurelionSol', 'Aphelios', 'Thresh']","['Yone', 'Udyr', 'Irelia', 'Ezreal', 'Pyke']",1.0
+NA1_5202550171,"['KSante', 'Shaco', 'Viktor', 'Caitlyn', 'Rakan']","['Jayce', 'Skarner', 'Veigar', 'Tristana', 'Poppy']",1.0
+NA1_5202515115,"['TahmKench', 'Elise', 'Irelia', 'Jinx', 'Velkoz']","['Yasuo', 'Ekko', 'Qiyana', 'Ezreal', 'Bard']",0.0
+NA1_5202494469,"['Volibear', 'Graves', 'Neeko', 'Aphelios', 'Poppy']","['TahmKench', 'Qiyana', 'Riven', 'Ezreal', 'Sona']",1.0
+NA1_5202471113,"['Renekton', 'LeeSin', 'Katarina', 'Yasuo', 'Braum']","['Yone', 'Viego', 'Ryze', 'Hwei', 'Poppy']",1.0
+NA1_5202433245,"['Renekton', 'Nidalee', 'Akali', 'Corki', 'Braum']","['Yone', 'LeeSin', 'Aurora', 'Syndra', 'Leona']",0.0
+NA1_5202396061,"['Jayce', 'LeeSin', 'Kennen', 'Ashe', 'Senna']","['Urgot', 'JarvanIV', 'Sylas', 'KogMaw', 'Sona']",1.0
+NA1_5202364339,"['Ahri', 'Graves', 'Gragas', 'Ashe', 'Blitzcrank']","['Jayce', 'Evelynn', 'Qiyana', 'Hwei', 'Nami']",0.0
+NA1_5202325529,"['Darius', 'Ekko', 'Yasuo', 'Corki', 'Leona']","['Jax', 'Graves', 'Sion', 'KogMaw', 'Pyke']",1.0
+NA1_5202288505,"['Aurora', 'Skarner', 'Sylas', 'MissFortune', 'Janna']","['Irelia', 'Vi', 'Orianna', 'Ezreal', 'Sona']",1.0
+NA1_5202264663,"['Renekton', 'JarvanIV', 'Sylas', 'Jinx', 'Lulu']","['Jayce', 'Zac', 'Ekko', 'Corki', 'Sona']",0.0
+NA1_5194503720,"['Vladimir', 'JarvanIV', 'Jayce', 'Varus', 'Neeko']","['Teemo', 'XinZhao', 'Orianna', 'Ezreal', 'Soraka']",0.0
+NA1_5193227347,"['Urgot', 'Nidalee', 'Katarina', 'Jhin', 'Gragas']","['Jayce', 'LeeSin', 'Hwei', 'Ashe', 'Nautilus']",1.0
+NA1_5193198078,"['Zoe', 'Viego', 'Sylas', 'Xayah', 'Maokai']","['Jayce', 'Diana', 'Naafiri', 'Kalista', 'Alistar']",0.0
+NA1_5193169106,"['Vladimir', 'Nidalee', 'Pantheon', 'Twitch', 'Soraka']","['KSante', 'Ambessa', 'Ekko', 'Corki', 'Nami']",0.0
+NA1_5193108439,"['Ryze', 'Graves', 'Nasus', 'Ashe', 'Sona']","['Aatrox', 'Khazix', 'Viktor', 'Seraphine', 'Zyra']",0.0
+NA1_5193069297,"['KSante', 'JarvanIV', 'Hwei', 'Ezreal', 'Janna']","['Ambessa', 'Nunu', 'Aurora', 'Kaisa', 'Nautilus']",0.0
+NA1_5193037765,"['Jax', 'Graves', 'Sylas', 'Lucian', 'Nami']","['Garen', 'Viego', 'Hwei', 'Viktor', 'Nautilus']",0.0
+NA1_5192987265,"['Gnar', 'Nidalee', 'Yone', 'Yasuo', 'Braum']","['Ambessa', 'Skarner', 'Talon', 'Swain', 'Leona']",0.0
+NA1_5192043019,"['Jax', 'Graves', 'Azir', 'Jinx', 'Lulu']","['Singed', 'Kindred', 'Lissandra', 'Corki', 'Soraka']",1.0
+NA1_5192010701,"['Garen', 'Graves', 'Sylas', 'Twitch', 'Neeko']","['Renekton', 'Maokai', 'Viktor', 'Ezreal', 'Karma']",0.0
+NA1_5190713150,"['Irelia', 'Graves', 'Leblanc', 'Xayah', 'TahmKench']","['Malphite', 'Karthus', 'Zed', 'Tristana', 'Blitzcrank']",1.0
+NA1_5190682901,"['Irelia', 'Nidalee', 'Yasuo', 'Zyra', 'Alistar']","['Kled', 'Skarner', 'Aurora', 'Corki', 'Nami']",1.0
+NA1_5190628013,"['Galio', 'Nidalee', 'Qiyana', 'Jinx', 'Lulu']","['Teemo', 'Ivern', 'Sylas', 'Caitlyn', 'Nautilus']",1.0
+NA1_5190594099,"['Garen', 'Graves', 'Tryndamere', 'Lux', 'Janna']","['Jax', 'Nunu', 'Vex', 'Samira', 'Rakan']",1.0
+NA1_5190565221,"['KSante', 'Ekko', 'Sion', 'Ziggs', 'Bard']","['Jayce', 'Nidalee', 'Yasuo', 'Tristana', 'Pyke']",0.0
+NA1_5190524545,"['Kayle', 'Graves', 'Brand', 'Ezreal', 'Nautilus']","['Ryze', 'Kindred', 'Briar', 'Kaisa', 'Karma']",0.0
+NA1_5189982845,"['Kennen', 'Graves', 'Sylas', 'Draven', 'Nautilus']","['Riven', 'Zyra', 'Corki', 'Swain', 'Rell']",1.0
+NA1_5189944494,"['Riven', 'Graves', 'Ekko', 'Corki', 'Nami']","['Jayce', 'Diana', 'Yasuo', 'Cassiopeia', 'Janna']",1.0
+NA1_5189903743,"['Garen', 'Graves', 'Irelia', 'Syndra', 'Sona']","['Jayce', 'Nidalee', 'Riven', 'Corki', 'Nautilus']",1.0
+NA1_5189865614,"['Ryze', 'Graves', 'Lissandra', 'Corki', 'Taric']","['Teemo', 'Khazix', 'Swain', 'Aphelios', 'Lulu']",1.0
+NA1_5189833797,"['Teemo', 'Karthus', 'Yone', 'Sivir', 'Taric']","['Yasuo', 'Shaco', 'Lissandra', 'Caitlyn', 'Alistar']",0.0
+NA1_5189793782,"['Seraphine', 'Graves', 'Lux', 'Jhin', 'Sion']","['Jayce', 'Ivern', 'Galio', 'Jinx', 'Alistar']",1.0
+NA1_5189753793,"['Sejuani', 'Lillia', 'Qiyana', 'Smolder', 'Nunu']","['Udyr', 'Viego', 'Katarina', 'Kaisa', 'Rakan']",1.0
+NA1_5189716966,"['Warwick', 'Graves', 'Ahri', 'Kalista', 'Nautilus']","['Urgot', 'Viego', 'AurelionSol', 'Ashe', 'Braum']",0.0
+NA1_5189681622,"['Ambessa', 'Nidalee', 'Yasuo', 'Smolder', 'Seraphine']","['Riven', 'Khazix', 'Viktor', 'Lux', 'Rell']",1.0
+NA1_5189662724,"['Vayne', 'Graves', 'Orianna', 'Corki', 'Bard']","['Ambessa', 'Taliyah', 'Garen', 'Ashe', 'Maokai']",1.0
+NA1_5189642220,"['Jayce', 'Graves', 'Galio', 'Jinx', 'Pyke']","['Irelia', 'JarvanIV', 'Lissandra', 'Kled', 'Zyra']",0.0
+NA1_5189618100,"['Tryndamere', 'Nidalee', 'Irelia', 'MissFortune', 'Seraphine']","['Cassiopeia', 'Rengar', 'Yone', 'Jhin', 'Karma']",1.0
+NA1_5189588583,"['Volibear', 'Graves', 'Thresh', 'Ashe', 'Aurora']","['Ambessa', 'Khazix', 'Swain', 'Jhin', 'Karma']",1.0
+NA1_5189567462,"['Gwen', 'Olaf', 'Yone', 'Singed', 'Sona']","['Renekton', 'Poppy', 'Swain', 'Corki', 'Nautilus']",0.0
+NA1_5188453401,"['Renekton', 'Kayn', 'Viktor', 'Jhin', 'Alistar']","['Sylas', 'Kindred', 'Anivia', 'Caitlyn', 'Senna']",1.0
+NA1_5188407815,"['Aurora', 'Viego', 'Yone', 'Syndra', 'Nautilus']","['XinZhao', 'Nocturne', 'Qiyana', 'Swain', 'Senna']",0.0
+NA1_5188376932,"['Riven', 'Graves', 'Lissandra', 'Hwei', 'Alistar']","['Pantheon', 'Karthus', 'Qiyana', 'Swain', 'Maokai']",1.0
+NA1_5188343071,"['Jax', 'Viego', 'Lux', 'Varus', 'Soraka']","['Olaf', 'Nunu', 'Aurora', 'Jhin', 'Braum']",0.0
+NA1_5188292760,"['Riven', 'Sylas', 'Smolder', 'Brand', 'Pyke']","['Gnar', 'Ekko', 'TwistedFate', 'Caitlyn', 'Amumu']",1.0
+NA1_5188258746,"['Aatrox', 'Nidalee', 'Akali', 'Ezreal', 'Taric']","['KSante', 'Zac', 'Viktor', 'MissFortune', 'Senna']",1.0
+NA1_5188234272,"['Akali', 'Graves', 'Ryze', 'Draven', 'Rakan']","['Zac', 'Rengar', 'Aurora', 'Twitch', 'Neeko']",1.0
+NA1_5188205304,"['Skarner', 'Graves', 'Yasuo', 'Syndra', 'Janna']","['Kled', 'JarvanIV', 'Aurora', 'Jinx', 'Rell']",1.0
+NA1_5188164712,"['MonkeyKing', 'JarvanIV', 'Syndra', 'Jinx', 'Nautilus']","['Kled', 'Darius', 'Aurora', 'Varus', 'TahmKench']",0.0
+NA1_5188141494,"['Gragas', 'Graves', 'Syndra', 'MissFortune', 'Alistar']","['Naafiri', 'Udyr', 'Ahri', 'Jinx', 'Nautilus']",0.0
+NA1_5188107363,"['Camille', 'Viego', 'Orianna', 'Ezreal', 'Seraphine']","['Irelia', 'Ahri', 'Qiyana', 'Tristana', 'Alistar']",0.0
+NA1_5188079063,"['Akali', 'Graves', 'Yone', 'MissFortune', 'Milio']","['Poppy', 'LeeSin', 'Sylas', 'Ashe', 'Braum']",1.0
+NA1_5187578448,"['Jax', 'Sylas', 'Briar', 'Viktor', 'Rakan']","['KSante', 'Shyvana', 'Ekko', 'Lucian', 'Pyke']",1.0
+NA1_5187542627,"['Sion', 'Nidalee', 'Akshan', 'Viktor', 'TahmKench']","['Warwick', 'Viego', 'Lissandra', 'Zyra', 'Pyke']",1.0
+NA1_5187503964,"['Malphite', 'Viego', 'Aurora', 'Varus', 'Renata']","['Gnar', 'LeeSin', 'Syndra', 'Ezreal', 'Bard']",0.0
+NA1_5187448449,"['Fiora', 'Viego', 'Ryze', 'Tristana', 'Thresh']","['Viktor', 'JarvanIV', 'Talon', 'Jinx', 'TahmKench']",0.0
+NA1_5187403628,"['Ambessa', 'Viego', 'Quinn', 'Syndra', 'Blitzcrank']","['Irelia', 'JarvanIV', 'Viktor', 'Zyra', 'Nautilus']",0.0
+NA1_5187366327,"['Garen', 'LeeSin', 'Yone', 'Lux', 'Taric']","['Renekton', 'Khazix', 'Ryze', 'Urgot', 'Zyra']",1.0
+NA1_5187317522,"['Gragas', 'Viego', 'Veigar', 'Jhin', 'Leona']","['Volibear', 'Poppy', 'Orianna', 'Caitlyn', 'Bard']",1.0
+NA1_5187279105,"['Urgot', 'Zyra', 'Jayce', 'Lucian', 'Milio']","['Aurora', 'Viego', 'Renekton', 'Xayah', 'Blitzcrank']",1.0
+NA1_5187252316,"['Aurora', 'Viego', 'Renekton', 'Syndra', 'Veigar']","['Rumble', 'Rammus', 'Yasuo', 'Sivir', 'Senna']",1.0
+NA1_5187215938,"['Quinn', 'Sylas', 'Talon', 'Aphelios', 'Braum']","['Ahri', 'Kindred', 'Ryze', 'Jhin', 'Nautilus']",0.0
+NA1_5186738051,"['Riven', 'Viego', 'Gragas', 'Veigar', 'Alistar']","['Poppy', 'Graves', 'Zac', 'MissFortune', 'Nautilus']",0.0
+NA1_5186707246,"['Fiora', 'Viego', 'Leblanc', 'Draven', 'Lulu']","['Riven', 'Zed', 'Azir', 'Vayne', 'Senna']",1.0
+NA1_5186682800,"['Jax', 'Elise', 'Yone', 'Brand', 'Karma']","['Gwen', 'Viego', 'Azir', 'Lucian', 'Senna']",1.0
+NA1_5186649753,"['Galio', 'Nidalee', 'Yone', 'Jhin', 'Karma']","['Jax', 'Kayn', 'Sylas', 'Lux', 'Bard']",0.0
+NA1_5186614275,"['Jax', 'Kindred', 'Syndra', 'Jinx', 'Lulu']","['Gwen', 'Graves', 'Gragas', 'Aphelios', 'Soraka']",1.0
+NA1_5186600306,"['Jax', 'Viego', 'Zed', 'Syndra', 'Senna']","['Viktor', 'Hecarim', 'Ryze', 'Corki', 'Nautilus']",1.0
+NA1_5186561501,"['Renekton', 'Taliyah', 'Zed', 'Corki', 'Blitzcrank']","['Gwen', 'Talon', 'Zoe', 'Yasuo', 'Rakan']",0.0
+NA1_5186514053,"['Malphite', 'Kindred', 'Gragas', 'Zyra', 'Senna']","['Garen', 'Diana', 'Yasuo', 'Lux', 'Teemo']",0.0
+NA1_5186476498,"['Urgot', 'JarvanIV', 'Kassadin', 'Sivir', 'Yuumi']","['Ambessa', 'Graves', 'Lux', 'Jinx', 'Senna']",0.0
+NA1_5186429300,"['Gnar', 'Viego', 'Vex', 'Varus', 'Neeko']","['Urgot', 'Zyra', 'Yasuo', 'Swain', 'Rell']",1.0
+NA1_5186398432,"['Ornn', 'Lillia', 'Yasuo', 'Ashe', 'Braum']","['Gwen', 'Nunu', 'Zed', 'Ezreal', 'Neeko']",1.0
+NA1_5186364356,"['Gragas', 'Viego', 'Hwei', 'Smolder', 'Lulu']","['Zac', 'Taliyah', 'Yasuo', 'Jhin', 'Senna']",1.0
+NA1_5185861540,"['Urgot', 'Kindred', 'Syndra', 'Ezreal', 'Nunu']","['Gragas', 'Belveth', 'Tristana', 'Anivia', 'Senna']",0.0
+NA1_5185831027,"['Olaf', 'Belveth', 'Viktor', 'Jhin', 'Nunu']","['Urgot', 'Zac', 'Gragas', 'Ashe', 'Senna']",1.0
+NA1_5185790654,"['Malphite', 'Viego', 'Syndra', 'Caitlyn', 'Senna']","['Ambessa', 'Qiyana', 'Gragas', 'Corki', 'Nautilus']",1.0
+NA1_5185768598,"['Vayne', 'Taliyah', 'Yasuo', 'Swain', 'Pyke']","['Ambessa', 'Kindred', 'Gragas', 'Veigar', 'Nunu']",1.0
+NA1_5185729570,"['Veigar', 'Viego', 'Hwei', 'Riven', 'Blitzcrank']","['Gnar', 'Karthus', 'Anivia', 'Ashe', 'Braum']",0.0
+NA1_5185692799,"['Aurora', 'Nidalee', 'Tryndamere', 'Caitlyn', 'Senna']","['Yasuo', 'Yuumi', 'Sion', 'Zyra', 'Janna']",1.0
+NA1_5185646731,"['Kayn', 'Zyra', 'Lissandra', 'Jhin', 'Bard']","['Yasuo', 'Karthus', 'Viktor', 'Tristana', 'Janna']",1.0
+NA1_5213330006,"['Nasus', 'Pantheon', 'Yone', 'Hwei', 'Lux']","['Kled', 'Khazix', 'Syndra', 'Mel', 'MissFortune']",1.0
+NA1_5213288299,"['KSante', 'Pantheon', 'Viktor', 'Samira', 'Elise']","['Lissandra', 'Skarner', 'Vladimir', 'MissFortune', 'Leona']",0.0
+NA1_5213241618,"['Jayce', 'Pantheon', 'Azir', 'Corki', 'Nautilus']","['Darius', 'Sylas', 'Rumble', 'Jhin', 'Lulu']",0.0
+NA1_5213206158,"['Gragas', 'Pantheon', 'Vayne', 'Caitlyn', 'Lulu']","['Jax', 'Ashe', 'Rumble', 'Corki', 'Elise']",0.0
+NA1_5213175084,"['Ambessa', 'Lillia', 'Akshan', 'Jinx', 'Blitzcrank']","['Jax', 'MonkeyKing', 'Aurora', 'Viktor', 'Thresh']",1.0
+NA1_5213141533,"['Nautilus', 'Nidalee', 'Corki', 'Varus', 'Renekton']","['Gangplank', 'Gwen', 'Jayce', 'Kaisa', 'Rell']",0.0
+NA1_5212500475,"['KSante', 'Pantheon', 'Azir', 'Varus', 'Zac']","['Twitch', 'Nunu', 'Kassadin', 'Riven', 'Lulu']",1.0
+NA1_5212482465,"['Jayce', 'Pantheon', 'Sylas', 'Lucian', 'Janna']","['Urgot', 'Nunu', 'Talon', 'Vayne', 'Soraka']",0.0
+NA1_5212458326,"['KSante', 'Kindred', 'Akali', 'Corki', 'Nautilus']","['Riven', 'Viego', 'Aurora', 'Varus', 'Karma']",0.0
+NA1_5212432917,"['Jayce', 'Pantheon', 'Ezreal', 'Fizz', 'Alistar']","['Ambessa', 'Gwen', 'Corki', 'Kalista', 'Elise']",1.0
+NA1_5212394559,"['Ambessa', 'Hecarim', 'Sylas', 'Ezreal', 'Karma']","['Neeko', 'Diana', 'Viktor', 'Kaisa', 'Janna']",1.0
+NA1_5212372668,"['Gwen', 'Pantheon', 'Diana', 'Kaisa', 'Soraka']","['Jax', 'Hecarim', 'Aurora', 'Zilean', 'Karma']",1.0
+NA1_5212365933,"['Kled', 'Pantheon', 'Ambessa', 'MissFortune', 'Neeko']","['Vladimir', 'Hecarim', 'LeeSin', 'Jhin', 'Elise']",1.0
+NA1_5212350620,"['Gragas', 'Lillia', 'Ambessa', 'Ezreal', 'Senna']","['Vayne', 'Zac', 'Tryndamere', 'Viktor', 'Bard']",1.0
+NA1_5212346012,"['Neeko', 'Pantheon', 'Katarina', 'MissFortune', 'Janna']","['Riven', 'Belveth', 'Sylas', 'Zyra', 'TahmKench']",1.0
+NA1_5212285891,"['Jayce', 'Pantheon', 'Annie', 'MissFortune', 'Rell']","['Renekton', 'JarvanIV', 'Ahri', 'Ezreal', 'Elise']",1.0
+NA1_5212261227,"['Ambessa', 'Pantheon', 'Ekko', 'Xayah', 'Alistar']","['Vayne', 'Rengar', 'Sylas', 'Ezreal', 'Leona']",1.0
+NA1_5212234743,"['Garen', 'Kindred', 'Hwei', 'Jinx', 'Pantheon']","['KSante', 'Zyra', 'Ambessa', 'Kaisa', 'Nautilus']",0.0
+NA1_5212208070,"['Vayne', 'Lillia', 'Ambessa', 'Ziggs', 'Pantheon']","['Urgot', 'Gwen', 'Yasuo', 'Jax', 'Rell']",1.0
+NA1_5212180143,"['Viktor', 'Kindred', 'Urgot', 'Veigar', 'Neeko']","['Nasus', 'Taliyah', 'Riven', 'MissFortune', 'Elise']",1.0
+NA1_5212134063,"['Garen', 'Pantheon', 'Viktor', 'Sivir', 'Galio']","['Aurora', 'Kayn', 'Ambessa', 'Corki', 'Poppy']",0.0
+NA1_5212089576,"['Jayce', 'Pantheon', 'Ezreal', 'Zoe', 'Pyke']","['Aatrox', 'Skarner', 'Cassiopeia', 'Jhin', 'Maokai']",1.0
+NA1_5212051197,"['Riven', 'Nidalee', 'Orianna', 'Draven', 'Rell']","['Pantheon', 'Diana', 'Corki', 'Jinx', 'Blitzcrank']",1.0
+NA1_5211612730,"['Illaoi', 'Pantheon', 'Viktor', 'Kaisa', 'Karma']","['Aurora', 'Viego', 'Fizz', 'Lucian', 'Rell']",1.0
+NA1_5211591816,"['Jax', 'Lillia', 'Irelia', 'Corki', 'Blitzcrank']","['Vayne', 'Nidalee', 'Renekton', 'Caitlyn', 'Rell']",0.0
+NA1_5211569028,"['Vayne', 'Kindred', 'Ahri', 'KogMaw', 'Janna']","['Renekton', 'LeeSin', 'Aurora', 'Kalista', 'Thresh']",1.0
+NA1_5211551315,"['Aurora', 'Skarner', 'Yone', 'Ezreal', 'Taric']","['Jayce', 'Viego', 'Vex', 'Kalista', 'Elise']",0.0
+NA1_5211529548,"['Kaisa', 'Viego', 'Orianna', 'Jayce', 'Nautilus']","['Chogath', 'JarvanIV', 'Yasuo', 'Jhin', 'Soraka']",0.0
+NA1_5211493790,"['Irelia', 'Nidalee', 'Jayce', 'Lux', 'Blitzcrank']","['Camille', 'Rumble', 'Sylas', 'Jhin', 'Leona']",1.0
+NA1_5211454252,"['KSante', 'Nidalee', 'Tristana', 'Jhin', 'Elise']","['Jax', 'Viego', 'Lissandra', 'Hwei', 'Alistar']",1.0
+NA1_5211399559,"['Aurora', 'Graves', 'Jayce', 'Lux', 'Elise']","['Maokai', 'Nocturne', 'Ambessa', 'Corki', 'Morgana']",0.0
+NA1_5211370884,"['Sett', 'Kindred', 'Viktor', 'MissFortune', 'Leona']","['Urgot', 'Zyra', 'Jayce', 'Corki', 'Rell']",0.0
+NA1_5210840617,"['Gragas', 'Lillia', 'Aurora', 'Xayah', 'Rakan']","['Riven', 'MonkeyKing', 'Ryze', 'Varus', 'Rell']",1.0
+NA1_5210825379,"['Irelia', 'Viego', 'Akali', 'Varus', 'Thresh']","['LeeSin', 'Elise', 'Zed', 'Jhin', 'Kennen']",0.0
+NA1_5210791351,"['LeeSin', 'Kindred', 'Leblanc', 'Corki', 'Thresh']","['Gangplank', 'Sion', 'Viktor', 'Ezreal', 'Sona']",0.0
+NA1_5210761449,"['Renekton', 'Vi', 'Hwei', 'Vayne', 'Yuumi']","['Ambessa', 'Viego', 'Fizz', 'Zeri', 'Lulu']",0.0
+NA1_5210732593,"['Kayle', 'Viego', 'Hwei', 'Corki', 'Rell']","['KSante', 'LeeSin', 'Diana', 'Caitlyn', 'Nautilus']",1.0
+NA1_5210699893,"['Renekton', 'Nidalee', 'Yone', 'Kaisa', 'Nautilus']","['Lux', 'LeeSin', 'KSante', 'Corki', 'Taric']",0.0
+NA1_5210656641,"['Gragas', 'Kindred', 'Ahri', 'Ashe', 'Braum']","['Jax', 'XinZhao', 'Sylas', 'Corki', 'Nautilus']",1.0
+NA1_5210614041,"['Urgot', 'Kindred', 'Ahri', 'Vladimir', 'Soraka']","['Garen', 'Elise', 'Mordekaiser', 'Kalista', 'Renata']",1.0
+NA1_5210587559,"['Garen', 'Kindred', 'Sylas', 'Kalista', 'Neeko']","['Gragas', 'Kayn', 'Azir', 'MissFortune', 'Renata']",1.0
+NA1_5210025202,"['Lulu', 'Vi', 'Taliyah', 'Corki', 'Rell']","['Akali', 'Nunu', 'Akshan', 'Ezreal', 'Leona']",1.0
+NA1_5209996989,"['Sylas', 'Kindred', 'Aurora', 'Ezreal', 'Alistar']","['Jayce', 'LeeSin', 'Zilean', 'MissFortune', 'Braum']",1.0
+NA1_5209967988,"['Aatrox', 'Lillia', 'Hwei', 'Ezreal', 'Bard']","['Urgot', 'Rammus', 'Akshan', 'Viktor', 'Thresh']",1.0
+NA1_5209937889,"['Malphite', 'Kindred', 'Taliyah', 'Ezreal', 'Taric']","['Darius', 'Nunu', 'Ekko', 'Corki', 'Pyke']",1.0
+NA1_5209896626,"['Gangplank', 'LeeSin', 'Leblanc', 'Corki', 'Elise']","['Poppy', 'Qiyana', 'Viktor', 'Jinx', 'Janna']",0.0
+NA1_5209855677,"['LeeSin', 'MonkeyKing', 'Aurora', 'Caitlyn', 'Elise']","['Ryze', 'Viego', 'Ambessa', 'Jhin', 'Senna']",1.0
+NA1_5209825203,"['KSante', 'Warwick', 'Cassiopeia', 'Viktor', 'Alistar']","['Ambessa', 'Khazix', 'Jinx', 'Leblanc', 'Thresh']",1.0
+NA1_5209768969,"['Jayce', 'LeeSin', 'MissFortune', 'Qiyana', 'Karma']","['Gragas', 'Ambessa', 'Yone', 'Hwei', 'Nami']",0.0
+NA1_5209734888,"['Maokai', 'Kindred', 'Lissandra', 'Karthus', 'Milio']","['Ambessa', 'XinZhao', 'Aurora', 'KogMaw', 'Soraka']",0.0
+NA1_5208538048,"['Sion', 'Kindred', 'Sylas', 'Kalista', 'Rell']","['Gwen', 'Viego', 'Zed', 'Cassiopeia', 'Poppy']",0.0
+NA1_5208506054,"['Fizz', 'Lillia', 'Viktor', 'Aphelios', 'Thresh']","['Jayce', 'MonkeyKing', 'Syndra', 'Zyra', 'Galio']",1.0
+NA1_5208482467,"['Vladimir', 'Lillia', 'Ambessa', 'Corki', 'Rakan']","['Jayce', 'Skarner', 'Azir', 'Kalista', 'Neeko']",0.0
+NA1_5208445084,"['Vayne', 'Skarner', 'Akshan', 'Viktor', 'Xerath']","['Ambessa', 'Taliyah', 'Qiyana', 'Corki', 'Rell']",0.0
+NA1_5208406447,"['Jayce', 'MonkeyKing', 'Xerath', 'Ezreal', 'Annie']","['Renekton', 'Viego', 'Syndra', 'MissFortune', 'Elise']",1.0
+NA1_5208367771,"['Teemo', 'Kindred', 'Yone', 'Seraphine', 'Maokai']","['Ambessa', 'Taliyah', 'Galio', 'Hwei', 'Sona']",0.0
+NA1_5208336929,"['Riven', 'Kindred', 'Orianna', 'Ashe', 'Alistar']","['Teemo', 'Ambessa', 'Ekko', 'Corki', 'Poppy']",1.0
+NA1_5207868190,"['Riven', 'Kindred', 'Hwei', 'Caitlyn', 'Lux']","['Jax', 'Nunu', 'Akshan', 'Kalista', 'Neeko']",1.0
+NA1_5207849384,"['Jayce', 'Kindred', 'Azir', 'Corki', 'Rell']","['Irelia', 'Gwen', 'Akshan', 'Jinx', 'Karma']",1.0
+NA1_5207826173,"['Jayce', 'Viego', 'Hwei', 'Ezreal', 'Nautilus']","['Shen', 'Hecarim', 'Azir', 'Kaisa', 'Maokai']",0.0
+NA1_5207798861,"['Poppy', 'LeeSin', 'Sylas', 'Jhin', 'Neeko']","['Riven', 'Kindred', 'Ambessa', 'Ziggs', 'Rell']",0.0
+NA1_5207764364,"['Cassiopeia', 'Viego', 'Qiyana', 'Kalista', 'Neeko']","['Akali', 'Karthus', 'Ambessa', 'Corki', 'Nautilus']",1.0
+NA1_5207740386,"['Trundle', 'Kindred', 'Malphite', 'Ziggs', 'Poppy']","['Shyvana', 'Karthus', 'Akshan', 'Vayne', 'Lulu']",1.0
+NA1_5207703274,"['Malphite', 'LeeSin', 'Veigar', 'Jinx', 'Renata']","['Aurora', 'Viego', 'Xerath', 'Ashe', 'Braum']",0.0
+NA1_5207663218,"['Gwen', 'Viego', 'Ambessa', 'Corki', 'Sona']","['Jayce', 'Ivern', 'Galio', 'Twitch', 'Soraka']",0.0
+NA1_5207633116,"['Mordekaiser', 'Viego', 'Kassadin', 'Twitch', 'Lulu']","['Kayle', 'Briar', 'Orianna', 'Hwei', 'Seraphine']",1.0
+NA1_5207185375,"['Maokai', 'Kindred', 'Talon', 'Seraphine', 'Karma']","['Riven', 'Nunu', 'Azir', 'Ezreal', 'Soraka']",1.0
+NA1_5207169405,"['Kennen', 'Nidalee', 'Qiyana', 'Draven', 'Poppy']","['Gnar', 'MasterYi', 'Viktor', 'Kalista', 'Sona']",1.0
+NA1_5207143104,"['Gangplank', 'Diana', 'Ryze', 'Ashe', 'Neeko']","['Leblanc', 'Viego', 'Sylas', 'MissFortune', 'Rell']",0.0
+NA1_5207114896,"['Jayce', 'Viego', 'Akali', 'Corki', 'Maokai']","['Irelia', 'Udyr', 'Taliyah', 'Jinx', 'Milio']",0.0
+NA1_5207073224,"['KSante', 'Viego', 'Orianna', 'Viktor', 'Bard']","['Jayce', 'Amumu', 'Ziggs', 'Pyke', 'Poppy']",1.0
+NA1_5207038511,"['Ambessa', 'LeeSin', 'Syndra', 'Varus', 'Rell']","['Darius', 'Nidalee', 'Naafiri', 'Veigar', 'Senna']",1.0
+NA1_5207000250,"['Kennen', 'Lillia', 'Qiyana', 'Corki', 'Nautilus']","['Poppy', 'Nidalee', 'Lissandra', 'Jhin', 'Senna']",0.0
+NA1_5206961838,"['Poppy', 'LeeSin', 'Leblanc', 'Kalista', 'Thresh']","['Jayce', 'MasterYi', 'Belveth', 'Lux', 'Velkoz']",0.0
+NA1_5206923778,"['Riven', 'Kindred', 'Viktor', 'Corki', 'Karma']","['Urgot', 'Viego', 'Zed', 'Hwei', 'Zoe']",0.0
+NA1_5206886614,"['Jayce', 'JarvanIV', 'Orianna', 'Veigar', 'TahmKench']","['Urgot', 'MonkeyKing', 'Fizz', 'Varus', 'Lulu']",0.0
+NA1_5206854559,"['Garen', 'XinZhao', 'Yone', 'Hwei', 'Nami']","['Renekton', 'Viego', 'Syndra', 'Fizz', 'Senna']",1.0
+NA1_5206835425,"['Gragas', 'Viego', 'Ahri', 'Kalista', 'Nautilus']","['Ambessa', 'Ivern', 'Viktor', 'Ezreal', 'Poppy']",0.0
+NA1_5205788176,"['Jayce', 'Lillia', 'Blitzcrank', 'Corki', 'Riven']","['Renekton', 'Viego', 'Akali', 'Jhin', 'Nautilus']",1.0
+NA1_5205769080,"['Irelia', 'Nidalee', 'Riven', 'Corki', 'Nautilus']","['Jayce', 'Ekko', 'Zed', 'Caitlyn', 'Braum']",1.0
+NA1_5205731898,"['Irelia', 'Kindred', 'Aurora', 'Kalista', 'Renata']","['Jayce', 'Viego', 'Hwei', 'Ahri', 'Poppy']",0.0
+NA1_5205708749,"['Rumble', 'Lillia', 'Irelia', 'Kalista', 'Rell']","['Renekton', 'Graves', 'Syndra', 'Ashe', 'Heimerdinger']",1.0
+NA1_5205666635,"['Jayce', 'Kindred', 'Ryze', 'Ezreal', 'Rakan']","['Malphite', 'Viego', 'Syndra', 'Corki', 'Maokai']",1.0
+NA1_5205612810,"['Ambessa', 'Viego', 'Akali', 'Ezreal', 'Elise']","['Vayne', 'Kayn', 'Lissandra', 'Karthus', 'KSante']",1.0
+NA1_5205582278,"['Ambessa', 'Viego', 'KSante', 'Corki', 'Elise']","['Garen', 'XinZhao', 'Aurora', 'Zyra', 'Alistar']",1.0
+NA1_5205548344,"['Cassiopeia', 'LeeSin', 'Irelia', 'Kalista', 'Elise']","['Teemo', 'Gwen', 'Naafiri', 'Caitlyn', 'Soraka']",1.0
+NA1_5205489355,"['Camille', 'Cassiopeia', 'MonkeyKing', 'Caitlyn', 'Thresh']","['Garen', 'Viego', 'Taliyah', 'Tristana', 'Poppy']",0.0
+NA1_5204930628,"['Warwick', 'Lillia', 'Sylas', 'Corki', 'Poppy']","['Tryndamere', 'Zac', 'Garen', 'MissFortune', 'Rell']",1.0
+NA1_5204903731,"['Jayce', 'Kindred', 'Swain', 'Ziggs', 'Blitzcrank']","['Mordekaiser', 'MonkeyKing', 'Galio', 'Jinx', 'Nautilus']",1.0
+NA1_5204885753,"['Jayce', 'Kindred', 'Viktor', 'Hwei', 'Pyke']","['Akali', 'Graves', 'Sylas', 'Jinx', 'Pantheon']",1.0
+NA1_5204853651,"['Jayce', 'LeeSin', 'Sylas', 'Corki', 'Nami']","['MonkeyKing', 'Udyr', 'Ryze', 'Caitlyn', 'Maokai']",1.0
+NA1_5204798773,"['Jayce', 'Nidalee', 'Corki', 'Vladimir', 'Rell']","['Kayle', 'Zyra', 'Ambessa', 'Jhin', 'Poppy']",1.0
+NA1_5204765879,"['Galio', 'Yone', 'Lillia', 'MissFortune', 'Nautilus']","['Riven', 'Elise', 'Vladimir', 'Corki', 'Braum']",0.0
+NA1_5204740864,"['Jayce', 'Nocturne', 'Sylas', 'Seraphine', 'Soraka']","['Teemo', 'Kennen', 'Qiyana', 'Varus', 'Zyra']",1.0
+NA1_5204702001,"['KSante', 'Karthus', 'Yasuo', 'Kaisa', 'Poppy']","['MonkeyKing', 'FiddleSticks', 'Jayce', 'Jhin', 'TahmKench']",0.0
+NA1_5204660198,"['Aurora', 'Lillia', 'Garen', 'Twitch', 'Lulu']","['Kayle', 'MonkeyKing', 'Akali', 'Varus', 'Nami']",1.0
+NA1_5204154279,"['Sett', 'Nocturne', 'Ahri', 'Ziggs', 'Pyke']","['Darius', 'Hecarim', 'Akali', 'Caitlyn', 'Thresh']",0.0
+NA1_5204130220,"['Rumble', 'Karthus', 'Jayce', 'Smolder', 'Alistar']","['KSante', 'Evelynn', 'Syndra', 'Draven', 'Bard']",0.0
+NA1_5204089659,"['Irelia', 'Gragas', 'Yone', 'Caitlyn', 'Poppy']","['Aurora', 'Viego', 'Jayce', 'Corki', 'Elise']",1.0
+NA1_5241862986,"['Yuumi', 'Syndra', 'Leblanc', 'Irelia', 'Gragas']","['Senna', 'Xerath', 'Veigar', 'Corki', 'Samira']",1.0
+NA1_5241327175,"['Kennen', 'LeeSin', 'Galio', 'Twitch', 'Janna']","['KSante', 'Talon', 'Ahri', 'Smolder', 'Nami']",1.0
+NA1_5239771829,"['Jax', 'Sejuani', 'Orianna', 'Jhin', 'Poppy']","['Rumble', 'MonkeyKing', 'Viktor', 'Kalista', 'Leona']",1.0
+NA1_5239727635,"['Ambessa', 'Zyra', 'Hwei', 'Varus', 'Rell']","['Renekton', 'DrMundo', 'Ahri', 'Ashe', 'Pantheon']",1.0
+NA1_5239677684,"['Irelia', 'Galio', 'Viego', 'Vayne', 'Ashe']","['Teemo', 'Amumu', 'Anivia', 'Caitlyn', 'Blitzcrank']",1.0
+NA1_5239651281,"['Ambessa', 'Lillia', 'Azir', 'Corki', 'Braum']","['Pantheon', 'Sejuani', 'Syndra', 'Tristana', 'Nautilus']",1.0
+NA1_5238245225,"['Ambessa', 'Nidalee', 'Yone', 'Ezreal', 'Leona']","['Jayce', 'Zyra', 'Azir', 'Jhin', 'Alistar']",1.0
+NA1_5235749130,"['Garen', 'LeeSin', 'Aurora', 'Aphelios', 'Blitzcrank']","['Nasus', 'Khazix', 'Leblanc', 'Syndra', 'Rakan']",0.0
+NA1_5235728213,"['Caitlyn', 'Sejuani', 'Sylas', 'Jinx', 'Sona']","['Irelia', 'Qiyana', 'Lucian', 'Ashe', 'Shen']",1.0
+NA1_5235650056,"['Galio', 'Nidalee', 'Zed', 'Corki', 'Elise']","['Gragas', 'Viego', 'Lissandra', 'Jinx', 'Rell']",0.0
+NA1_5235609151,"['Warwick', 'Elise', 'Ahri', 'Ezreal', 'Pantheon']","['Yone', 'Ivern', 'Qiyana', 'Samira', 'Pyke']",1.0
+NA1_5235568371,"['Gwen', 'MonkeyKing', 'Kennen', 'Seraphine', 'Pyke']","['Yone', 'Rammus', 'Akshan', 'Ezreal', 'Elise']",0.0
+NA1_5235532168,"['Jax', 'Khazix', 'Galio', 'Zeri', 'Zilean']","['KSante', 'Diana', 'Corki', 'Ezreal', 'Karma']",0.0
+NA1_5235485535,"['Riven', 'Elise', 'Aatrox', 'Jhin', 'Pyke']","['KSante', 'Hecarim', 'Yasuo', 'Jinx', 'Karma']",1.0
+NA1_5235025566,"['KSante', 'Elise', 'Aurora', 'Jinx', 'Lulu']","['Garen', 'JarvanIV', 'Yone', 'Mel', 'Nami']",0.0
+NA1_5234998506,"['Aurora', 'LeeSin', 'Chogath', 'Jhin', 'Karma']","['DrMundo', 'Viego', 'Taliyah', 'Ashe', 'Pantheon']",1.0
+NA1_5233790757,"['Quinn', 'Viego', 'Katarina', 'Lucian', 'Taric']","['Azir', 'Hecarim', 'Yone', 'Tristana', 'Lulu']",0.0
+NA1_5233763372,"['Urgot', 'Pantheon', 'Xerath', 'Zeri', 'Lulu']","['Jayce', 'Diana', 'Cassiopeia', 'Corki', 'Blitzcrank']",0.0
+NA1_5225360499,"['Fizz', 'LeeSin', 'Irelia', 'Ezreal', 'Karma']","['Jax', 'Zyra', 'Yone', 'Jinx', 'Thresh']",0.0
+NA1_5224719067,"['Garen', 'LeeSin', 'Taliyah', 'Kalista', 'Poppy']","['Gnar', 'Ekko', 'Aurora', 'Corki', 'Nami']",0.0
+NA1_5224663404,"['Neeko', 'Pantheon', 'Yone', 'Swain', 'Zilean']","['Garen', 'Volibear', 'Aurora', 'Riven', 'Lulu']",0.0
+NA1_5224629760,"['Warwick', 'Kindred', 'Viktor', 'Mel', 'Pyke']","['Jax', 'Udyr', 'Yone', 'Azir', 'Pantheon']",1.0
+NA1_5224612803,"['Anivia', 'Pantheon', 'Aurora', 'Caitlyn', 'Thresh']","['Gnar', 'Morgana', 'Sylas', 'Twitch', 'Karma']",1.0
+NA1_5224165036,"['Jax', 'Diana', 'Yone', 'Ezreal', 'Shen']","['Pantheon', 'Gwen', 'Azir', 'Corki', 'Poppy']",0.0
+NA1_5224139143,"['Jayce', 'Pantheon', 'Taliyah', 'Zeri', 'Elise']","['Garen', 'Talon', 'Aurora', 'Kaisa', 'Poppy']",1.0
+NA1_5224104730,"['Kled', 'Diana', 'Akshan', 'Tristana', 'Poppy']","['Garen', 'Ekko', 'Yasuo', 'MissFortune', 'Rell']",0.0
+NA1_5223136867,"['Ahri', 'XinZhao', 'Tristana', 'Azir', 'Lulu']","['Vladimir', 'MonkeyKing', 'Viktor', 'Jhin', 'Senna']",1.0
+NA1_5223107214,"['Poppy', 'Diana', 'Syndra', 'Twitch', 'Senna']","['Urgot', 'Skarner', 'Azir', 'Caitlyn', 'Zyra']",1.0
+NA1_5223077893,"['Kayle', 'Diana', 'Yone', 'Draven', 'Neeko']","['Chogath', 'Graves', 'Akali', 'Ezreal', 'Mel']",1.0
+NA1_5223050916,"['Aatrox', 'Diana', 'Brand', 'Ezreal', 'Neeko']","['Renekton', 'Nunu', 'Briar', 'Lux', 'Leona']",1.0
+NA1_5223038860,"['Jax', 'Kindred', 'Orianna', 'Lux', 'Karma']","['Ornn', 'MonkeyKing', 'Vladimir', 'Zeri', 'Lulu']",1.0
+NA1_5222727901,"['Jayce', 'Diana', 'Hwei', 'Jinx', 'Lulu']","['Darius', 'Udyr', 'Yasuo', 'Ziggs', 'Rell']",0.0
+NA1_5222682201,"['Jayce', 'Diana', 'Ambessa', 'Kalista', 'Maokai']","['Camille', 'Zyra', 'KSante', 'Corki', 'Nautilus']",1.0
+NA1_5222649868,"['Gangplank', 'Diana', 'KSante', 'Mel', 'Poppy']","['Gragas', 'JarvanIV', 'Galio', 'Kalista', 'Thresh']",1.0
+NA1_5222603573,"['Ambessa', 'Nidalee', 'Yone', 'Mel', 'Elise']","['Akali', 'Vi', 'Fiora', 'Corki', 'Poppy']",0.0
+NA1_5222565917,"['Zoe', 'Lillia', 'Yone', 'Sivir', 'Karma']","['Maokai', 'Nunu', 'Azir', 'Jinx', 'Pantheon']",0.0
+NA1_5222532901,"['Camille', 'LeeSin', 'Lux', 'Tristana', 'Nautilus']","['KSante', 'FiddleSticks', 'Pantheon', 'Ezreal', 'Rell']",1.0
+NA1_5222505270,"['Renekton', 'JarvanIV', 'Galio', 'Vladimir', 'Senna']","['Rakan', 'Nunu', 'Akali', 'Ezreal', 'Jax']",0.0
+NA1_5222479445,"['Gnar', 'Nunu', 'Sylas', 'Varus', 'Nautilus']","['Fiora', 'Udyr', 'Orianna', 'MissFortune', 'Rell']",0.0
+NA1_5222452553,"['Ambessa', 'XinZhao', 'Vladimir', 'Aurora', 'Nami']","['Gragas', 'FiddleSticks', 'Corki', 'Vayne', 'Renata']",0.0
+NA1_5221912505,"['Vayne', 'Morgana', 'KSante', 'Hwei', 'Poppy']","['Garen', 'Zac', 'Akshan', 'Pyke', 'Kaisa']",1.0
+NA1_5221878354,"['Ambessa', 'Pantheon', 'Taliyah', 'Ezreal', 'Karma']","['Riven', 'Udyr', 'Mel', 'Zeri', 'Janna']",0.0
+NA1_5221848067,"['Garen', 'Lillia', 'Hwei', 'Jhin', 'TahmKench']","['Fiora', 'Udyr', 'Sylas', 'Varus', 'Janna']",1.0
+NA1_5221815816,"['Renekton', 'LeeSin', 'Mel', 'Ezreal', 'Galio']","['Ambessa', 'Diana', 'Smolder', 'MissFortune', 'Rumble']",1.0
+NA1_5221779524,"['Jax', 'Chogath', 'Syndra', 'Smolder', 'Pantheon']","['Riven', 'Mel', 'Rengar', 'Kalista', 'Zoe']",0.0
+NA1_5221751442,"['Fiora', 'XinZhao', 'Syndra', 'Jhin', 'Rell']","['Rumble', 'Vi', 'Sylas', 'Corki', 'Zoe']",0.0
+NA1_5221734861,"['Rumble', 'JarvanIV', 'Sylas', 'Samira', 'Rell']","['Jax', 'FiddleSticks', 'Corki', 'Varus', 'Neeko']",1.0
+NA1_5221370844,"['Urgot', 'Diana', 'Yasuo', 'Ezreal', 'Rell']","['Shen', 'MonkeyKing', 'Hwei', 'Vayne', 'Lulu']",1.0
+NA1_5221334695,"['Jayce', 'XinZhao', 'Viktor', 'Kalista', 'Nautilus']","['Renekton', 'Gwen', 'Syndra', 'Nilah', 'Pantheon']",0.0
+NA1_5221278703,"['Renekton', 'JarvanIV', 'Mel', 'MissFortune', 'Soraka']","['Jayce', 'Ambessa', 'Syndra', 'Jinx', 'Elise']",0.0
+NA1_5220515284,"['Jayce', 'Vi', 'Syndra', 'Jhin', 'Neeko']","['Irelia', 'LeeSin', 'Azir', 'Akshan', 'Janna']",1.0
+NA1_5220474890,"['Ambessa', 'JarvanIV', 'Sylas', 'Syndra', 'Maokai']","['Jayce', 'XinZhao', 'Cassiopeia', 'Draven', 'Karma']",1.0
+NA1_5220426374,"['Gangplank', 'Pantheon', 'Aurora', 'Hwei', 'Lulu']","['Ambessa', 'MonkeyKing', 'Syndra', 'Varus', 'Pyke']",0.0
+NA1_5220404042,"['Garen', 'Pantheon', 'Taliyah', 'Jinx', 'Elise']","['KSante', 'Nunu', 'Corki', 'Varus', 'Karma']",0.0
+NA1_5219747682,"['Riven', 'Vi', 'Aurora', 'MissFortune', 'Nautilus']","['Jayce', 'Zac', 'Taliyah', 'Corki', 'Pantheon']",1.0
+NA1_5219703499,"['Camille', 'Zyra', 'Yone', 'Smolder', 'Leona']","['Riven', 'Gwen', 'Irelia', 'Ezreal', 'Karma']",1.0
+NA1_5219669766,"['Jax', 'Pantheon', 'Akali', 'Lux', 'Maokai']","['Jayce', 'MasterYi', 'Azir', 'Ezreal', 'Karma']",0.0
+NA1_5219623470,"['Camille', 'Pantheon', 'Neeko', 'Ezreal', 'Soraka']","['Jax', 'MonkeyKing', 'Ambessa', 'Viktor', 'Maokai']",1.0
+NA1_5219592921,"['Garen', 'LeeSin', 'Zoe', 'MissFortune', 'Milio']","['Teemo', 'MasterYi', 'Ryze', 'Ashe', 'Lulu']",0.0
+NA1_5219553176,"['Teemo', 'JarvanIV', 'Velkoz', 'Jhin', 'Soraka']","['Camille', 'Zyra', 'Akali', 'MissFortune', 'Milio']",0.0
+NA1_5219515568,"['Camille', 'Kindred', 'Galio', 'Kaisa', 'Alistar']","['Renekton', 'Nunu', 'Ahri', 'Sivir', 'Braum']",0.0
+NA1_5219483119,"['KSante', 'Pantheon', 'Azir', 'Corki', 'Nautilus']","['Smolder', 'Rengar', 'Zoe', 'MissFortune', 'Rakan']",0.0
+NA1_5219062833,"['Ambessa', 'Pantheon', 'Orianna', 'MissFortune', 'Yuumi']","['Jayce', 'Ivern', 'Hwei', 'Smolder', 'Maokai']",0.0
+NA1_5219014659,"['MonkeyKing', 'Pantheon', 'Gragas', 'Taliyah', 'Rell']","['AurelionSol', 'Ivern', 'Jayce', 'Smolder', 'Nautilus']",0.0
+NA1_5218181765,"['Akali', 'Kindred', 'Mel', 'Smolder', 'Rell']","['Ambessa', 'Lillia', 'Akshan', 'MissFortune', 'Lux']",1.0
+NA1_5218046241,"['Jax', 'Pantheon', 'Fizz', 'Hwei', 'Leona']","['Renekton', 'Zyra', 'Yone', 'Corki', 'Nautilus']",0.0
+NA1_5218008193,"['LeeSin', 'Zac', 'Aurora', 'Aphelios', 'Zoe']","['Fiora', 'Pantheon', 'Leblanc', 'Ezreal', 'Karma']",0.0
+NA1_5216949493,"['Ambessa', 'Diana', 'Naafiri', 'Kaisa', 'Pyke']","['Briar', 'Nidalee', 'Zed', 'Ezreal', 'Rell']",0.0
+NA1_5216907596,"['Ornn', 'Kindred', 'Ahri', 'MissFortune', 'Thresh']","['Darius', 'Nunu', 'Karma', 'Corki', 'Rell']",1.0
+NA1_5216865001,"['Vayne', 'Lillia', 'LeeSin', 'Jinx', 'Rell']","['Jayce', 'Skarner', 'Aurora', 'Urgot', 'Thresh']",1.0
+NA1_5216825475,"['Riven', 'Pantheon', 'Syndra', 'Smolder', 'Rakan']","['KSante', 'Taliyah', 'Corki', 'Ezreal', 'Braum']",1.0
+NA1_5216772527,"['Chogath', 'LeeSin', 'Yone', 'Smolder', 'Sona']","['Vladimir', 'Pantheon', 'Ryze', 'Lux', 'Zilean']",1.0
+NA1_5216711724,"['Vayne', 'JarvanIV', 'Kassadin', 'Jinx', 'Jax']","['KSante', 'Zyra', 'Akshan', 'MissFortune', 'Rell']",0.0
+NA1_5216668360,"['Cassiopeia', 'Pantheon', 'Pyke', 'Seraphine', 'Leona']","['Ryze', 'Kayn', 'Jayce', 'MissFortune', 'Poppy']",1.0
+NA1_5216632957,"['Jayce', 'Nidalee', 'Yone', 'Smolder', 'Pantheon']","['Urgot', 'Zac', 'Orianna', 'Jinx', 'Elise']",0.0
+NA1_5216601788,"['Ornn', 'Kindred', 'Hwei', 'Twitch', 'Elise']","['Urgot', 'Nunu', 'Ahri', 'MissFortune', 'Lulu']",1.0
+NA1_5216573737,"['Renekton', 'Pantheon', 'Tristana', 'Lux', 'Soraka']","['DrMundo', 'LeeSin', 'Ambessa', 'Hwei', 'Rell']",0.0
+NA1_5216346874,"['Malphite', 'Pantheon', 'Pyke', 'Ezreal', 'Zoe']","['Teemo', 'LeeSin', 'Jayce', 'Hwei', 'Nautilus']",1.0
+NA1_5216327574,"['Jax', 'Pantheon', 'Vladimir', 'Jhin', 'Ornn']","['Ambessa', 'Lillia', 'Orianna', 'Smolder', 'Sona']",1.0
+NA1_5216300097,"['Singed', 'Malzahar', 'Jhin', 'Akali', 'Kassadin']","['Orianna', 'Darius', 'Fizz', 'Kalista', 'Belveth']",1.0
+NA1_5216271870,"['Darius', 'Pantheon', 'Ahri', 'Tristana', 'Alistar']","['Vayne', 'Zyra', 'Leblanc', 'MissFortune', 'Rell']",1.0
+NA1_5216241994,"['Kayle', 'Nidalee', 'Viego', 'Ezreal', 'Rell']","['Shen', 'Pantheon', 'Sylas', 'Zeri', 'Alistar']",0.0
+NA1_5214457656,"['Fiora', 'JarvanIV', 'Annie', 'Karthus', 'Nami']","['Gragas', 'Pantheon', 'Mel', 'Kalista', 'Neeko']",1.0
+NA1_5214415272,"['Jayce', 'Nidalee', 'Yasuo', 'Brand', 'Nautilus']","['Renekton', 'LeeSin', 'Mel', 'Ezreal', 'Nami']",1.0
+NA1_5214351802,"['Darius', 'LeeSin', 'Yone', 'Hwei', 'TahmKench']","['Heimerdinger', 'Taliyah', 'Ambessa', 'Varus', 'Thresh']",0.0
+NA1_5214286309,"['Aatrox', 'Pantheon', 'Azir', 'Varus', 'Renata']","['Renekton', 'Gwen', 'Jayce', 'Kaisa', 'Rell']",1.0
+NA1_5214238977,"['Renekton', 'Pantheon', 'Syndra', 'Lucian', 'Milio']","['Ambessa', 'Nocturne', 'LeeSin', 'Viktor', 'Elise']",1.0
+NA1_5214189904,"['Olaf', 'Pantheon', 'Taliyah', 'Jhin', 'Janna']","['LeeSin', 'Rammus', 'Corki', 'Hwei', 'Maokai']",1.0
+NA1_5214155342,"['Viego', 'Pantheon', 'Viktor', 'Vex', 'Rell']","['Fiora', 'Kindred', 'Ambessa', 'Karthus', 'Janna']",1.0
+NA1_5214112112,"['Rumble', 'Pantheon', 'Akshan', 'Morgana', 'Bard']","['Graves', 'Nunu', 'Jayce', 'Ezreal', 'Mel']",1.0
+NA1_5214084008,"['Fiora', 'Pantheon', 'Hwei', 'Varus', 'Rell']","['KSante', 'Skarner', 'Viktor', 'Ezreal', 'Nautilus']",1.0
+NA1_5214060233,"['Teemo', 'Pantheon', 'Orianna', 'Jhin', 'Mel']","['Nidalee', 'Annie', 'XinZhao', 'Varus', 'Braum']",1.0
+NA1_5214034652,"['Nasus', 'Pantheon', 'Cassiopeia', 'Jhin', 'Mel']","['Urgot', 'JarvanIV', 'Sylas', 'Kalista', 'Rell']",1.0
+NA1_5214002375,"['Maokai', 'Pantheon', 'Corki', 'Mel', 'Nami']","['Ambessa', 'Taliyah', 'Tristana', 'Veigar', 'Poppy']",1.0
+NA1_5213567965,"['Ambessa', 'Pantheon', 'Taliyah', 'Jhin', 'Leona']","['Riven', 'MonkeyKing', 'Aurora', 'Akshan', 'Braum']",0.0
+NA1_5213529150,"['Gangplank', 'Pantheon', 'Taliyah', 'Smolder', 'Thresh']","['Aatrox', 'Poppy', 'Azir', 'Lux', 'Alistar']",1.0
+NA1_5213481634,"['Malphite', 'Pantheon', 'Sylas', 'Jinx', 'Karma']","['Jayce', 'Nidalee', 'Corki', 'Ezreal', 'Nami']",0.0
+NA1_5213436932,"['Aatrox', 'Pantheon', 'Chogath', 'Jhin', 'Karma']","['Sylas', 'Zed', 'Mel', 'Caitlyn', 'Zyra']",1.0
+NA1_5213402382,"['Sylas', 'Pantheon', 'Teemo', 'Jayce', 'TahmKench']","['Maokai', 'Rumble', 'Orianna', 'MissFortune', 'Alistar']",1.0
+NA1_5257149867,"['Jayce', 'Lillia', 'Yone', 'Lucian', 'Braum']","['Ambessa', 'Khazix', 'Aurora', 'Kaisa', 'Rell']",1.0
+NA1_5256915635,"['Bard', 'Leblanc', 'AurelionSol', 'Zac', 'Udyr', 'Mel', 'Galio', 'Ryze']","['Akali', 'Talon', 'Caitlyn', 'Twitch', 'Akshan', 'Gangplank', 'LeeSin', 'Nunu']",0.0
+NA1_5256905725,"['Samira', 'Lulu', 'Zeri', 'TwistedFate', 'Veigar', 'Quinn', 'Ahri', 'Sett']","['Kaisa', 'Corki', 'Pyke', 'KSante', 'Sylas', 'Akali', 'Lillia', 'Shaco']",1.0
+NA1_5256900842,"['Pantheon', 'Kayle', 'Xerath', 'Ekko', 'Sona', 'Naafiri', 'Vi', 'Rammus']","['Kaisa', 'Illaoi', 'Jayce', 'Lulu', 'Rell', 'Nocturne', 'Jayce', 'Ambessa']",1.0
+NA1_5256872018,"['Vladimir', 'Darius', 'Lissandra', 'Twitch', 'Lulu']","['Quinn', 'JarvanIV', 'Lux', 'KogMaw', 'Braum']",1.0
+NA1_5256854826,"['Ahri', 'Lillia', 'Nasus', 'Ashe', 'Braum']","['Zac', 'Karthus', 'Velkoz', 'Corki', 'Nami']",1.0
+NA1_5256824504,"['MonkeyKing', 'Taliyah', 'Corki', 'Tristana', 'Nautilus']","['Jayce', 'Viego', 'Aurora', 'Ashe', 'Sett']",1.0
+NA1_5256792862,"['Quinn', 'Lillia', 'Brand', 'Tristana', 'Nautilus']","['Jayce', 'Taric', 'Qiyana', 'Ezreal', 'Karma']",0.0
+NA1_5256753367,"['Ornn', 'Lillia', 'Talon', 'Smolder', 'Sona']","['Gwen', 'Vi', 'Ryze', 'Swain', 'Nautilus']",1.0
+NA1_5256726724,"['Gragas', 'Lillia', 'Yasuo', 'Zeri', 'Pantheon']","['Vladimir', 'JarvanIV', 'Naafiri', 'Twitch', 'Lulu']",1.0
+NA1_5256704407,"['Teemo', 'Pantheon', 'Yone', 'Syndra', 'Sona']","['Tryndamere', 'Naafiri', 'Orianna', 'Nilah', 'Yuumi']",1.0
+NA1_5256681730,"['Aatrox', 'Lillia', 'Aurora', 'Tristana', 'Janna']","['Singed', 'Kindred', 'Neeko', 'Lucian', 'Sona']",0.0
+NA1_5254590257,"['Urgot', 'Naafiri', 'Aurora', 'Kaisa', 'Sett']","['MonkeyKing', 'Kayn', 'Taliyah', 'Ahri', 'Rell']",0.0
+NA1_5254568286,"['Jayce', 'Naafiri', 'Tristana', 'Lux', 'Alistar']","['Nocturne', 'Pantheon', 'Pyke', 'Ziggs', 'Poppy']",0.0
+NA1_5254545492,"['KSante', 'Nidalee', 'Zeri', 'Tristana', 'Poppy']","['Chogath', 'Gragas', 'Pantheon', 'Ashe', 'Leona']",0.0
+NA1_5254514728,"['Jayce', 'LeeSin', 'Azir', 'Ezreal', 'Poppy']","['KSante', 'JarvanIV', 'Aurora', 'Yasuo', 'Nami']",0.0
+NA1_5254497328,"['Garen', 'Gwen', 'Ambessa', 'Xayah', 'Rakan']","['Jax', 'Volibear', 'Gangplank', 'Lucian', 'Sona']",0.0
+NA1_5254466726,"['Jayce', 'Lillia', 'Yone', 'Yasuo', 'Gragas']","['Riven', 'Volibear', 'Akali', 'Tristana', 'Nidalee']",0.0
+NA1_5254097603,"['Shen', 'Lillia', 'Yasuo', 'MissFortune', 'Nautilus']","['Gangplank', 'Belveth', 'Aurora', 'Jhin', 'Karma']",1.0
+NA1_5254066042,"['Urgot', 'Kindred', 'Sylas', 'Ziggs', 'Rell']","['Vayne', 'Belveth', 'Jayce', 'Ahri', 'Janna']",1.0
+NA1_5254041955,"['Olaf', 'Lillia', 'Yasuo', 'Swain', 'Sona']","['Urgot', 'Naafiri', 'Ahri', 'Ashe', 'Sylas']",1.0
+NA1_5254023069,"['Ornn', 'Lillia', 'Yasuo', 'Jhin', 'Senna']","['Jax', 'Graves', 'Chogath', 'Kaisa', 'Poppy']",1.0
+NA1_5253993506,"['Gwen', 'XinZhao', 'Yone', 'Smolder', 'Neeko']","['Aatrox', 'Talon', 'Vladimir', 'Tristana', 'Nautilus']",1.0
+NA1_5253957291,"['Riven', 'JarvanIV', 'Viktor', 'Ezreal', 'Bard']","['Renekton', 'Vi', 'Akali', 'Jhin', 'Sona']",0.0
+NA1_5253924989,"['Akali', 'Viego', 'Galio', 'Ashe', 'Leona']","['Jayce', 'Zac', 'Zed', 'Mel', 'Senna']",0.0
+NA1_5253894546,"['Warwick', 'Taliyah', 'Yasuo', 'Ezreal', 'Nami']","['Volibear', 'Zyra', 'Azir', 'Samira', 'Thresh']",1.0
+NA1_5253870763,"['Jayce', 'Nautilus', 'Orianna', 'Caitlyn', 'Elise']","['Sion', 'JarvanIV', 'Malzahar', 'Corki', 'Blitzcrank']",0.0
+NA1_5253843636,"['Akali', 'Ambessa', 'Zoe', 'Corki', 'Janna']","['Garen', 'Kayn', 'Azir', 'Taliyah', 'Leona']",0.0
+NA1_5253546066,"['Lux', 'Ambessa', 'Sion', 'Diana', 'Yone', 'Nami', 'Ashe', 'Pyke']","['Gragas', 'Lissandra', 'Sona', 'Yorick', 'Riven', 'Kindred', 'Ambessa', 'Amumu']",1.0
+NA1_5253493261,"['Ahri', 'Graves', 'Galio', 'Xayah', 'Pyke']","['Gangplank', 'Naafiri', 'Hwei', 'Neeko', 'Nautilus']",1.0
+NA1_5253464642,"['Vladimir', 'Sylas', 'Ambessa', 'Tristana', 'Sona']","['Gangplank', 'Poppy', 'Neeko', 'Ashe', 'Lulu']",0.0
+NA1_5253441364,"['Ambessa', 'Nocturne', 'Syndra', 'Tristana', 'Swain']","['Volibear', 'Lillia', 'Naafiri', 'Kaisa', 'Pyke']",0.0
+NA1_5253420770,"['Gangplank', 'Gwen', 'Yone', 'Tristana', 'Neeko']","['Teemo', 'Kindred', 'Zed', 'Seraphine', 'Maokai']",1.0
+NA1_5253394883,"['Jayce', 'Sylas', 'Smolder', 'Mel', 'Nautilus']","['Urgot', 'Viego', 'Akali', 'Syndra', 'Thresh']",0.0
+NA1_5253361624,"['Pantheon', 'Nidalee', 'Yone', 'Mel', 'Nautilus']","['Camille', 'Hecarim', 'Lux', 'Jhin', 'Bard']",1.0
+NA1_5253038731,"['Braum', 'Jhin', 'Velkoz', 'Senna', 'Alistar']","['Tristana', 'Sona', 'Gnar', 'Vex', 'Galio']",0.0
+NA1_5253031513,"['Amumu', 'Kennen', 'Viktor', 'Aatrox', 'LeeSin']","['Sion', 'Zed', 'Jayce', 'Anivia', 'Irelia']",1.0
+NA1_5253022642,"['Draven', 'Hecarim', 'Jayce', 'Azir', 'Kaisa']","['Vladimir', 'Zed', 'Rell', 'Zyra', 'Aphelios']",0.0
+NA1_5253014323,"['Caitlyn', 'Leona', 'Jayce', 'Akali', 'LeeSin']","['Diana', 'Udyr', 'Khazix', 'Garen', 'Heimerdinger']",1.0
+NA1_5252991922,"['Aatrox', 'Taliyah', 'Naafiri', 'Lucian', 'Nami']","['Rengar', 'Malphite', 'Orianna', 'Zeri', 'Yuumi']",0.0
+NA1_5252953271,"['Tryndamere', 'Ambessa', 'Aurora', 'Ezreal', 'Sona']","['Jayce', 'Rengar', 'Orianna', 'Jhin', 'Nautilus']",0.0
+NA1_5252927958,"['Pantheon', 'Naafiri', 'Aurora', 'Kaisa', 'Pyke']","['Irelia', 'Rengar', 'Azir', 'Tristana', 'Thresh']",0.0
+NA1_5252889323,"['Aurora', 'Naafiri', 'Azir', 'Lucian', 'Poppy']","['Teemo', 'Viego', 'Ahri', 'Kaisa', 'Rakan']",1.0
+NA1_5252856413,"['Singed', 'Naafiri', 'Azir', 'Vladimir', 'Senna']","['Ambessa', 'Evelynn', 'Syndra', 'Jhin', 'Bard']",0.0
+NA1_5252830483,"['Singed', 'Ambessa', 'Galio', 'Smolder', 'Rakan']","['Gwen', 'LeeSin', 'Syndra', 'Jhin', 'Thresh']",0.0
+NA1_5252808818,"['Vladimir', 'Ambessa', 'Yone', 'Tristana', 'Taric']","['Chogath', 'LeeSin', 'Neeko', 'Jhin', 'Alistar']",0.0
+NA1_5252423117,"['Jinx', 'AurelionSol', 'Zoe', 'Sejuani', 'Karthus']","['Mel', 'Lulu', 'Twitch', 'Graves', 'Nautilus']",0.0
+NA1_5252408105,"['Alistar', 'Milio', 'Vayne', 'Malzahar', 'Sylas']","['Jhin', 'Zeri', 'Diana', 'Xayah', 'Xerath']",1.0
+NA1_5252390727,"['Sett', 'Belveth', 'Belveth', 'TwistedFate', 'Ornn', 'Kennen', 'Hwei', 'Kayle']","['Kaisa', 'Lillia', 'Akali', 'Malphite', 'XinZhao', 'Velkoz', 'Heimerdinger', 'Karthus']",0.0
+NA1_5252360433,"['Jayce', 'Ambessa', 'Ahri', 'Aphelios', 'Sona']","['KSante', 'Gwen', 'Tristana', 'Ezreal', 'Pantheon']",1.0
+NA1_5252341019,"['Shen', 'Warwick', 'Taliyah', 'Aphelios', 'Lulu']","['Pyke', 'Belveth', 'Syndra', 'Caitlyn', 'Gnar']",1.0
+NA1_5252319371,"['Gwen', 'Ambessa', 'Syndra', 'Kalista', 'Lulu']","['Urgot', 'Khazix', 'Yone', 'Lux', 'Poppy']",1.0
+NA1_5252290904,"['Jayce', 'Ambessa', 'Akali', 'Vayne', 'Milio']","['Shen', 'Nocturne', 'Corki', 'Seraphine', 'Sona']",1.0
+NA1_5252253870,"['Sion', 'Lillia', 'Corki', 'Ashe', 'Lulu']","['Aurora', 'Gwen', 'Akali', 'Caitlyn', 'Sona']",0.0
+NA1_5252220506,"['Anivia', 'Ambessa', 'Ryze', 'Varus', 'Neeko']","['Warwick', 'Hecarim', 'Sylas', 'Kaisa', 'Pyke']",1.0
+NA1_5252185026,"['Yone', 'Ambessa', 'Aurora', 'Zeri', 'Lulu']","['Urgot', 'Karthus', 'Pyke', 'Tristana', 'Nautilus']",0.0
+NA1_5251630235,"['Jax', 'Kayn', 'Sylas', 'Azir', 'Shen']","['Yone', 'XinZhao', 'Corki', 'Hwei', 'Nautilus']",1.0
+NA1_5251604958,"['Jax', 'Ambessa', 'Azir', 'Ezreal', 'Braum']","['Gangplank', 'Vi', 'Taliyah', 'Draven', 'Neeko']",0.0
+NA1_5251585760,"['Ryze', 'Gwen', 'Viktor', 'Ashe', 'Braum']","['Kennen', 'Sejuani', 'Sylas', 'Draven', 'Karma']",1.0
+NA1_5251561519,"['Gnar', 'Ambessa', 'Zoe', 'Kaisa', 'Sona']","['Quinn', 'Skarner', 'Aurora', 'Corki', 'Nami']",1.0
+NA1_5251537851,"['KSante', 'Ambessa', 'Kennen', 'Ahri', 'Rell']","['Renekton', 'Diana', 'Yasuo', 'Jhin', 'Sona']",0.0
+NA1_5251509560,"['Renekton', 'Ambessa', 'Zilean', 'Tristana', 'Sona']","['Aatrox', 'Viego', 'Karma', 'Kaisa', 'Nautilus']",1.0
+NA1_5251193357,"['Aatrox', 'Lillia', 'Zed', 'Mel', 'Lulu']","['Gwen', 'JarvanIV', 'Pyke', 'Jinx', 'Soraka']",0.0
+NA1_5251172355,"['Kayle', 'Sylas', 'Corki', 'Twitch', 'Lulu']","['Viktor', 'Viego', 'Hwei', 'Smolder', 'Bard']",0.0
+NA1_5251155223,"['Caitlyn', 'Sylas', 'Yasuo', 'MonkeyKing', 'Nautilus']","['Jax', 'Warwick', 'Lucian', 'Ashe', 'Braum']",1.0
+NA1_5251119610,"['Sett', 'Taliyah', 'Qiyana', 'KogMaw', 'Nautilus']","['Camille', 'Vi', 'Syndra', 'Zilean', 'Senna']",1.0
+NA1_5251093490,"['Sett', 'LeeSin', 'Ezreal', 'Viktor', 'Karma']","['Camille', 'Naafiri', 'Heimerdinger', 'Caitlyn', 'Nami']",1.0
+NA1_5251060818,"['Gangplank', 'Hecarim', 'Syndra', 'Jhin', 'Elise']","['Aurora', 'DrMundo', 'Pyke', 'Twitch', 'Sona']",0.0
+NA1_5251024813,"['Jayce', 'Sylas', 'Corki', 'Chogath', 'Neeko']","['Gwen', 'Naafiri', 'Zed', 'Syndra', 'Nautilus']",0.0
+NA1_5250993342,"['Irelia', 'Nidalee', 'Talon', 'Jinx', 'Thresh']","['Aurora', 'Naafiri', 'Syndra', 'Aphelios', 'Nautilus']",0.0
+NA1_5250958447,"['Aatrox', 'Hecarim', 'Irelia', 'Mel', 'Lulu']","['Gangplank', 'Kayn', 'Leblanc', 'Caitlyn', 'Velkoz']",0.0
+NA1_5250923228,"['Gangplank', 'Naafiri', 'Pantheon', 'Kaisa', 'Hwei']","['Syndra', 'Qiyana', 'Taliyah', 'Ashe', 'Pyke']",1.0
+NA1_5250903110,"['Gangplank', 'Poppy', 'Talon', 'Lux', 'Senna']","['Rumble', 'JarvanIV', 'TwistedFate', 'Kaisa', 'Janna']",0.0
+NA1_5250890089,"['Ambessa', 'Hecarim', 'Zoe', 'Jhin', 'Lux']","['Jax', 'Volibear', 'TwistedFate', 'Aphelios', 'Nautilus']",1.0
+NA1_5250860736,"['Jax', 'Hecarim', 'Aurora', 'Corki', 'Rell']","['Aatrox', 'XinZhao', 'Pyke', 'Hwei', 'Bard']",0.0
+NA1_5250623344,"['Vladimir', 'Gwen', 'Talon', 'Senna', 'Smolder']","['Shen', 'Zed', 'Kennen', 'Kaisa', 'Vayne']",1.0
+NA1_5250042372,"['Camille', 'Darius', 'Akali', 'Ezreal', 'Rell']","['Azir', 'Vi', 'Lissandra', 'Tristana', 'Sona']",1.0
+NA1_5250016974,"['Aatrox', 'Nidalee', 'Sylas', 'Caitlyn', 'Nautilus']","['Azir', 'Skarner', 'Zed', 'Jhin', 'Karma']",1.0
+NA1_5249998878,"['Aurora', 'LeeSin', 'Corki', 'Ezreal', 'Karma']","['Gangplank', 'Pantheon', 'Lulu', 'Kaisa', 'Nautilus']",1.0
+NA1_5249958599,"['Irelia', 'Taliyah', 'Yone', 'Caitlyn', 'Elise']","['Ahri', 'Shaco', 'Azir', 'Ezreal', 'Karma']",1.0
+NA1_5249927317,"['Urgot', 'Graves', 'Galio', 'Corki', 'Janna']","['Lucian', 'Hecarim', 'Orianna', 'Tristana', 'Lulu']",0.0
+NA1_5249900351,"['Malphite', 'Vi', 'Sylas', 'Jinx', 'Lulu']","['Riven', 'MasterYi', 'Chogath', 'Ezreal', 'Bard']",0.0
+NA1_5249875812,"['Jayce', 'Darius', 'Zoe', 'MissFortune', 'Rell']","['Tryndamere', 'Hecarim', 'Galio', 'Varus', 'Alistar']",1.0
+NA1_5249851878,"['Jayce', 'Taliyah', 'Corki', 'Mel', 'Bard']","['Sion', 'Shaco', 'Zoe', 'MissFortune', 'Lulu']",0.0
+NA1_5249816505,"['Aurora', 'LeeSin', 'Zoe', 'Jinx', 'Soraka']","['Rumble', 'Shaco', 'Akshan', 'Jhin', 'Karma']",0.0
+NA1_5247749787,"['Camille', 'Viego', 'Ahri', 'Caitlyn', 'Neeko']","['Jayce', 'Talon', 'Sylas', 'Ezreal', 'Karma']",0.0
+NA1_5247730871,"['Azir', 'Darius', 'Cassiopeia', 'Ezreal', 'Poppy']","['Gnar', 'Zac', 'Kennen', 'MissFortune', 'Shen']",0.0
+NA1_5247701550,"['Sett', 'LeeSin', 'Sylas', 'Ashe', 'Lulu']","['Shen', 'Graves', 'Aurora', 'Ezreal', 'Nautilus']",1.0
+NA1_5245463452,"['Anivia', 'Zed', 'Orianna', 'Lucian', 'Pantheon']","['Riven', 'LeeSin', 'Talon', 'Viktor', 'Alistar']",0.0
+NA1_5244890693,"['Gangplank', 'Darius', 'Gwen', 'Ashe', 'Milio']","['Fiora', 'XinZhao', 'Azir', 'Varus', 'Nautilus']",1.0
+NA1_5244669790,"['Jayce', 'Kindred', 'Galio', 'Jhin', 'Alistar']","['Poppy', 'Viego', 'Orianna', 'Kaisa', 'Nautilus']",1.0
+NA1_5244622706,"['Yone', 'Sion', 'Azir', 'Ashe', 'Leona']","['Chogath', 'XinZhao', 'Syndra', 'Ezreal', 'Senna']",1.0
+NA1_5244599347,"['Renekton', 'Darius', 'Viktor', 'Varus', 'Rakan']","['DrMundo', 'Nocturne', 'Ryze', 'Corki', 'Rell']",1.0
+NA1_5243959411,"['Garen', 'Nidalee', 'Yone', 'Ashe', 'Rakan']","['KSante', 'JarvanIV', 'Azir', 'Ezreal', 'Neeko']",1.0
+NA1_5243927679,"['Ambessa', 'Zyra', 'Viktor', 'Varus', 'Rell']","['Rumble', 'Maokai', 'Akshan', 'MissFortune', 'Blitzcrank']",1.0
+NA1_5243901876,"['Tryndamere', 'Sejuani', 'Viktor', 'Ashe', 'Braum']","['Cassiopeia', 'Ivern', 'Tristana', 'Ezreal', 'Rell']",1.0
+NA1_5243864002,"['Ambessa', 'Zyra', 'Azir', 'Varus', 'Alistar']","['Vex', 'Volibear', 'Jayce', 'Corki', 'Leona']",1.0
+NA1_5241896512,"['Camille', 'Kindred', 'Aurora', 'MissFortune', 'Nautilus']","['Singed', 'Volibear', 'Akshan', 'Jhin', 'Braum']",1.0
+NA1_5241878291,"['Janna', 'Twitch', 'KogMaw', 'Sett', 'Sylas']","['Shaco', 'Mel', 'Lucian', 'LeeSin', 'Sivir']",1.0
+NA1_5275649094,"['Tristana', 'Hecarim', 'Graves', 'Alistar', 'Aphelios', 'Gangplank', 'Maokai', 'Pyke']","['Belveth', 'Karma', 'Malzahar', 'Pyke', 'Fiora', 'Malphite', 'Yone', 'Ambessa']",1.0
+NA1_5273209069,"['Ryze', 'Tryndamere', 'Shen', 'Karma', 'TwistedFate', 'Nunu', 'XinZhao', 'Xayah']","['Fizz', 'Ornn', 'TahmKench', 'Quinn', 'Rammus', 'Malphite', 'Volibear', 'Darius']",1.0
+NA1_5273007411,"['Gragas', 'Ezreal', 'Maokai', 'Rell', 'Jayce', 'Ivern', 'Nilah', 'Kindred']","['Nidalee', 'Shyvana', 'Blitzcrank', 'Yasuo', 'Hecarim', 'Swain', 'Jax', 'Yuumi']",0.0
+NA1_5272998259,"['Jax', 'Sylas', 'Warwick', 'Malzahar', 'Nidalee', 'Kaisa', 'Kayn', 'Alistar']","['Ornn', 'Aurora', 'Vayne', 'Smolder', 'Gragas', 'Shen', 'Sett', 'Pyke']",1.0
+NA1_5272990069,"['Leblanc', 'Viego', 'Pantheon', 'Riven', 'Naafiri', 'FiddleSticks', 'Fiora', 'RekSai']","['Kayn', 'Orianna', 'Vladimir', 'Lulu', 'Velkoz', 'Akshan', 'Kayn', 'Kaisa']",1.0
+NA1_5272974107,"['Brand', 'Galio', 'Katarina', 'Naafiri', 'Sett', 'Ziggs', 'Mordekaiser', 'Aatrox']","['Khazix', 'Veigar', 'Poppy', 'Draven', 'Janna', 'Smolder', 'Yuumi', 'Alistar']",1.0
+NA1_5272327572,"['TwistedFate', 'Blitzcrank', 'Quinn', 'Yasuo', 'Taric', 'Aurora', 'Brand', 'Vi']","['Urgot', 'Poppy', 'Taliyah', 'Thresh', 'Thresh', 'XinZhao', 'XinZhao', 'Jinx']",1.0
+NA1_5272315817,"['Zyra', 'Bard', 'Velkoz', 'Heimerdinger', 'Veigar', 'Talon', 'MonkeyKing', 'Vladimir']","['Kalista', 'Cassiopeia', 'Sion', 'Ivern', 'Pyke', 'MasterYi', 'Sylas', 'Ahri']",1.0
+NA1_5272299672,"['Zed', 'Shaco', 'Caitlyn', 'Gangplank', 'Nunu', 'Urgot', 'Ivern', 'Ryze']","['Tryndamere', 'Aurora', 'Graves', 'Malphite', 'Vladimir', 'Yone', 'Vi', 'Hwei']",0.0
+NA1_5272269155,"['Nilah', 'Lillia', 'Skarner', 'Ryze', 'Warwick', 'Taric', 'Sona', 'Jinx']","['Tryndamere', 'Nunu', 'XinZhao', 'Camille', 'Ryze', 'Sivir', 'Sejuani', 'Gragas']",1.0
+NA1_5272247264,"['Zed', 'Malzahar', 'Nautilus', 'DrMundo', 'Kayn', 'Sivir', 'Lillia', 'Zoe']","['LeeSin', 'Sylas', 'Lillia', 'Nidalee', 'Zac', 'Katarina', 'Ivern', 'Xayah']",1.0
+NA1_5272230455,"['Sion', 'Fizz', 'Teemo', 'Bard', 'Neeko', 'Rammus', 'Rell', 'Brand']","['Malphite', 'Briar', 'KogMaw', 'Leona', 'Illaoi', 'Janna', 'MasterYi', 'Lillia']",0.0
+NA1_5272210489,"['RekSai', 'Gragas', 'Zed', 'Ahri', 'Shyvana', 'Singed', 'Karthus', 'Akshan']","['Zac', 'Rumble', 'Sona', 'Yone', 'Trundle', 'Chogath', 'Gangplank', 'Yasuo']",0.0
+NA1_5272038325,"['Mordekaiser', 'FiddleSticks', 'Teemo', 'Gnar', 'Fiora', 'Shaco', 'Viego', 'Hwei']","['Lux', 'Quinn', 'Hecarim', 'Gnar', 'Aphelios', 'Seraphine', 'KogMaw', 'Blitzcrank']",1.0
+NA1_5272019752,"['Anivia', 'Vladimir', 'Zac', 'Vi', 'MissFortune', 'Brand', 'Neeko', 'JarvanIV']","['Annie', 'Alistar', 'TahmKench', 'Yorick', 'Fizz', 'LeeSin', 'Nunu', 'Syndra']",1.0
+NA1_5271691184,"['Milio', 'Aphelios', 'Thresh', 'Sion', 'Darius', 'Kalista', 'Vi', 'Soraka']","['Neeko', 'KSante', 'Velkoz', 'Diana', 'Leblanc', 'Kayle', 'Udyr', 'Tristana']",0.0
+NA1_5271681387,"['Morgana', 'Neeko', 'Kalista', 'Yorick', 'Irelia', 'Lulu', 'Belveth', 'Nunu']","['Velkoz', 'Kalista', 'Warwick', 'Syndra', 'Hwei', 'Lissandra', 'Nami', 'Belveth']",0.0
+NA1_5271665426,"['Shyvana', 'Kayle', 'Zilean', 'Thresh', 'Leona', 'Irelia', 'Karma', 'Kayle']","['Kalista', 'Ahri', 'Katarina', 'Nidalee', 'Ashe', 'Alistar', 'TahmKench', 'Lillia']",1.0
+NA1_5271587684,"['Jayce', 'Lillia', 'Mel', 'Corki', 'Bard']","['MonkeyKing', 'Udyr', 'Orianna', 'Xayah', 'Thresh']",0.0
+NA1_5271575319,"['Aatrox', 'LeeSin', 'Vladimir', 'Zyra', 'Rell']","['Jayce', 'FiddleSticks', 'Gangplank', 'Kalista', 'Renata']",0.0
+NA1_5271553941,"['Sion', 'Poppy', 'Vex', 'Ashe', 'Rumble']","['Aurora', 'Vi', 'Mel', 'Yasuo', 'Alistar']",0.0
+NA1_5271530984,"['Sion', 'Neeko', 'Yone', 'Smolder', 'Nautilus']","['Kled', 'Naafiri', 'Vex', 'Tristana', 'Rakan']",1.0
+NA1_5271497451,"['Jayce', 'Lillia', 'Yone', 'Jhin', 'Nautilus']","['Azir', 'Shaco', 'Lucian', 'Smolder', 'Janna']",1.0
+NA1_5271478301,"['Teemo', 'Neeko', 'Corki', 'Varus', 'Pyke']","['Sion', 'Rengar', 'Orianna', 'Jhin', 'Alistar']",0.0
+NA1_5271458759,"['Gnar', 'Shen', 'Orianna', 'Twitch', 'Rell']","['Vladimir', 'Zac', 'Sylas', 'Ezreal', 'Karma']",0.0
+NA1_5271426114,"['Volibear', 'Zed', 'Zeri', 'Aurora', 'Yuumi']","['Rengar', 'Ivern', 'MissFortune', 'Mel', 'Nautilus']",0.0
+NA1_5271385047,"['Gwen', 'Neeko', 'Gangplank', 'Ashe', 'Senna']","['Yorick', 'Zed', 'Aurora', 'Corki', 'Milio']",1.0
+NA1_5271348873,"['Quinn', 'Brand', 'Lucian', 'Jhin', 'Thresh']","['Jayce', 'FiddleSticks', 'Tristana', 'Karthus', 'Pyke']",0.0
+NA1_5270678081,"['Gangplank', 'Neeko', 'Talon', 'Kaisa', 'Nautilus']","['Vladimir', 'XinZhao', 'Vex', 'Jinx', 'Yasuo']",1.0
+NA1_5270647569,"['Gwen', 'Neeko', 'Yone', 'Jhin', 'Karma']","['Ryze', 'Qiyana', 'Zed', 'Corki', 'Rell']",0.0
+NA1_5270622654,"['Gangplank', 'Neeko', 'Mel', 'Kaisa', 'Zilean']","['Irelia', 'Zac', 'Talon', 'Caitlyn', 'Karma']",1.0
+NA1_5270261330,"['Shyvana', 'Nocturne', 'Jinx', 'Mel', 'Udyr', 'Nautilus', 'Ahri', 'Smolder']","['MasterYi', 'Vladimir', 'Kaisa', 'Ornn', 'Udyr', 'Senna', 'Viktor', 'Rell']",1.0
+NA1_5270252355,"['Yone', 'Vex', 'Zac', 'Sion', 'Amumu', 'Belveth', 'Ekko', 'Malphite']","['Alistar', 'Nocturne', 'Brand', 'Rammus', 'Belveth', 'Shaco', 'Sett', 'Sion']",1.0
+NA1_5270234585,"['Shaco', 'Zed', 'Kaisa', 'Mordekaiser', 'Renekton', 'Shaco', 'Jhin', 'XinZhao']","['Thresh', 'Akshan', 'Talon', 'Sylas', 'KogMaw', 'Galio', 'Soraka', 'Nasus']",0.0
+NA1_5270224960,"['Fiora', 'Brand', 'Milio', 'Kaisa', 'Blitzcrank', 'Lulu', 'Xerath', 'KogMaw']","['Belveth', 'Pyke', 'Udyr', 'Lillia', 'Ornn', 'Swain', 'Rammus', 'Singed']",1.0
+NA1_5270211878,"['Naafiri', 'Brand', 'Nautilus', 'Kalista', 'Nautilus', 'Lucian', 'Janna', 'Maokai']","['Velkoz', 'Seraphine', 'Jayce', 'Chogath', 'Lillia', 'Volibear', 'Darius', 'Udyr']",1.0
+NA1_5269924567,"['MonkeyKing', 'Gnar', 'Chogath', 'Kalista', 'TwistedFate', 'Swain', 'Galio', 'Naafiri']","['KogMaw', 'Hwei', 'Jax', 'Chogath', 'Kayn', 'Amumu', 'Rammus', 'Rell']",1.0
+NA1_5269837148,"['Qiyana', 'Alistar', 'FiddleSticks', 'Shyvana', 'Aurora', 'Udyr', 'Aphelios', 'Chogath']","['Syndra', 'Swain', 'LeeSin', 'Smolder', 'Tristana', 'Annie', 'MissFortune', 'Zac']",1.0
+NA1_5268809206,"['Ambessa', 'Swain', 'Tristana', 'Shaco', 'Yone', 'Yasuo', 'Smolder', 'Karma']","['Lillia', 'Jhin', 'Caitlyn', 'Graves', 'Annie', 'Mordekaiser', 'Morgana', 'Alistar']",1.0
+NA1_5268796672,"['Karthus', 'Renekton', 'Ahri', 'Leblanc', 'Nautilus', 'MissFortune', 'Poppy', 'Lulu']","['Trundle', 'Udyr', 'Shaco', 'MonkeyKing', 'Karma', 'Kayn', 'Vex', 'Fizz']",0.0
+NA1_5268464143,"['Lillia', 'Vi', 'Mel', 'LeeSin', 'Sett', 'Mordekaiser', 'Lulu', 'Karma']","['Malzahar', 'Mel', 'Anivia', 'Nunu', 'Lillia', 'Xerath', 'Yuumi', 'Kassadin']",1.0
+NA1_5268157277,"['Graves', 'DrMundo', 'Ashe', 'Ahri', 'Varus']","['Irelia', 'Corki', 'Lucian', 'Hwei', 'Katarina']",0.0
+NA1_5268137708,"['Swain', 'Hecarim', 'Sylas', 'Jhin', 'Poppy']","['Gragas', 'MasterYi', 'Aurora', 'Tristana', 'FiddleSticks']",1.0
+NA1_5268119183,"['Nidalee', 'Jayce', 'Azir', 'Aphelios', 'Pyke']","['Yorick', 'Khazix', 'Zoe', 'Kalista', 'Renata']",0.0
+NA1_5268103306,"['Ashe', 'XinZhao', 'Rengar', 'Yuumi', 'Kaisa']","['Singed', 'Elise', 'Galio', 'Smolder', 'Taliyah']",1.0
+NA1_5267756296,"['Velkoz', 'Hwei', 'Jhin', 'LeeSin', 'Qiyana', 'Elise', 'Vi', 'Sett']","['Yasuo', 'Rakan', 'Leona', 'Alistar', 'Quinn', 'LeeSin', 'Kassadin', 'Yorick']",0.0
+NA1_5267742511,"['Nunu', 'Jax', 'JarvanIV', 'Garen', 'Lux', 'Elise', 'Veigar', 'Gwen']","['Lillia', 'Kindred', 'Nasus', 'Nunu', 'Kaisa', 'Zac', 'Briar', 'Akali']",0.0
+NA1_5266088444,"['Xayah', 'MissFortune', 'Vex', 'Ziggs', 'Corki', 'Kayn', 'Akali', 'Syndra']","['Shaco', 'Twitch', 'Leona', 'Lissandra', 'Zeri', 'Blitzcrank', 'FiddleSticks', 'LeeSin']",0.0
+NA1_5266076867,"['Tryndamere', 'Jhin', 'Xayah', 'Briar', 'Blitzcrank', 'Irelia', 'Leona', 'Ornn']","['Nasus', 'Shaco', 'XinZhao', 'Jinx', 'Viktor', 'Ekko', 'Thresh', 'Gangplank']",1.0
+NA1_5266061799,"['Yuumi', 'Janna', 'Ambessa', 'Camille', 'Lucian', 'Rammus', 'KogMaw', 'LeeSin']","['Twitch', 'Samira', 'Skarner', 'Mel', 'Hwei', 'Seraphine', 'Singed', 'Aphelios']",1.0
+NA1_5266051390,"['Zac', 'Varus', 'Pantheon', 'XinZhao', 'Singed', 'Mordekaiser', 'Leona', 'Pyke']","['Zeri', 'Nocturne', 'Kalista', 'Ahri', 'Fiora', 'Kassadin', 'Vladimir', 'Aatrox']",0.0
+NA1_5264963856,"['Zeri', 'Viktor', 'Elise', 'Nocturne', 'Warwick', 'Heimerdinger', 'Swain', 'Mordekaiser']","['Ezreal', 'Zed', 'LeeSin', 'Ahri', 'Karma', 'Morgana', 'LeeSin', 'Garen']",0.0
+NA1_5264944596,"['Ziggs', 'Varus', 'Camille', 'Twitch', 'Mel', 'Malphite', 'Thresh', 'JarvanIV']","['Mel', 'Talon', 'LeeSin', 'Gragas', 'KSante', 'Sett', 'Aatrox', 'LeeSin']",1.0
+NA1_5263603036,"['Kalista', 'TwistedFate', 'Azir', 'Darius', 'Annie', 'Renata', 'Nasus', 'Irelia']","['Kaisa', 'Vayne', 'Garen', 'Olaf', 'XinZhao', 'Sona', 'Ornn', 'Malzahar']",1.0
+NA1_5261864501,"['Pantheon', 'Corki', 'Shen', 'Jax', 'Sett', 'Garen', 'KogMaw', 'Heimerdinger']","['Vayne', 'Xayah', 'Teemo', 'Jhin', 'Vladimir', 'MasterYi', 'Sivir', 'Kassadin']",1.0
+NA1_5261859238,"['Sett', 'Janna', 'Leona', 'Malzahar', 'Nami', 'Naafiri', 'Hecarim', 'Camille']","['Swain', 'Sett', 'Lulu', 'FiddleSticks', 'Kennen', 'Ahri', 'Soraka', 'MasterYi']",0.0
+NA1_5261846286,"['Braum', 'Lillia', 'FiddleSticks', 'Soraka', 'Lulu', 'Akshan', 'Ahri', 'Irelia']","['Lucian', 'Nocturne', 'Nautilus', 'Graves', 'Kassadin', 'Rakan', 'Diana', 'Warwick']",1.0
+NA1_5261090900,"['Kindred', 'Shen', 'Olaf', 'Taliyah', 'Neeko', 'Sona', 'Aphelios', 'Thresh']","['Karma', 'Taric', 'Karma', 'Lux', 'Seraphine', 'Pantheon', 'Kayn', 'Karma']",1.0
+NA1_5261082019,"['Fizz', 'Ryze', 'Lillia', 'Veigar', 'Neeko', 'Evelynn', 'Darius', 'Leblanc']","['Caitlyn', 'Milio', 'Riven', 'Ryze', 'Kayle', 'Sivir', 'XinZhao', 'Yuumi']",1.0
+NA1_5261052688,"['Tristana', 'Shaco', 'Irelia', 'XinZhao', 'Heimerdinger', 'Viego', 'Taric', 'Draven']","['Taliyah', 'Jhin', 'Yone', 'Lissandra', 'Heimerdinger', 'Garen', 'Akshan', 'XinZhao']",0.0
+NA1_5261042076,"['Tryndamere', 'TwistedFate', 'Zilean', 'Brand', 'KogMaw', 'Graves', 'TwistedFate', 'Vladimir']","['Nautilus', 'Orianna', 'Blitzcrank', 'Yorick', 'Zoe', 'Caitlyn', 'Blitzcrank', 'Rammus']",1.0
+NA1_5261026980,"['Heimerdinger', 'Yasuo', 'TahmKench', 'Irelia', 'Akshan', 'MissFortune', 'Warwick', 'Nami']","['Vayne', 'Syndra', 'MasterYi', 'Braum', 'Lulu', 'Sett', 'Karthus', 'Akshan']",0.0
+NA1_5261009979,"['Evelynn', 'Urgot', 'Mel', 'Maokai', 'TwistedFate', 'Ashe', 'Belveth', 'Yasuo']","['Graves', 'Nunu', 'Tryndamere', 'Neeko', 'Briar', 'Swain', 'Draven', 'Senna']",0.0
+NA1_5260991064,"['Braum', 'Belveth', 'Volibear', 'Ahri', 'Taliyah', 'Brand', 'XinZhao', 'Jinx']","['Poppy', 'Irelia', 'Rammus', 'Kassadin', 'Teemo', 'Sivir', 'Udyr', 'Vladimir']",1.0
+NA1_5260970870,"['Evelynn', 'Gwen', 'Xerath', 'Gragas', 'Yasuo', 'Urgot', 'Graves', 'Nami']","['TahmKench', 'Lissandra', 'Azir', 'Kled', 'Caitlyn', 'Jax', 'Naafiri', 'Mordekaiser']",1.0
+NA1_5260946402,"['Yone', 'Sett', 'Jhin', 'Vi', 'TahmKench', 'Hwei', 'Nautilus', 'Mordekaiser']","['Zyra', 'Teemo', 'Sett', 'Caitlyn', 'Nami', 'Kassadin', 'Anivia', 'Lillia']",1.0
+NA1_5260671550,"['Braum', 'Gwen', 'Azir', 'Gnar', 'Naafiri', 'Syndra', 'Nunu', 'Chogath']","['Zyra', 'Janna', 'Kaisa', 'Velkoz', 'Syndra', 'AurelionSol', 'Amumu', 'Chogath']",1.0
+NA1_5260015244,"['Sett', 'Lillia', 'Chogath', 'Draven', 'Nautilus']","['Pantheon', 'Naafiri', 'Azir', 'Tristana', 'Braum']",1.0
+NA1_5259823827,"['Pantheon', 'Udyr', 'Singed', 'Yorick', 'Graves', 'Viego', 'Akshan', 'Kennen']","['Trundle', 'Jayce', 'Akali', 'Alistar', 'Qiyana', 'Gangplank', 'Rengar', 'Sett']",1.0
+NA1_5259800703,"['Fiora', 'KogMaw', 'Evelynn', 'Varus', 'Annie', 'Rammus', 'Briar', 'RekSai']","['MonkeyKing', 'Lucian', 'Karma', 'Kaisa', 'TwistedFate', 'Hwei', 'Sona', 'Ambessa']",1.0
+NA1_5258599221,"['Naafiri', 'Vi', 'Corki', 'Karthus', 'Leona']","['Zoe', 'Kayn', 'Jayce', 'Tristana', 'Neeko']",0.0
+NA1_5258574729,"['Anivia', 'JarvanIV', 'Tristana', 'Karthus', 'Rell']","['Pantheon', 'Zyra', 'Lucian', 'Seraphine', 'Alistar']",1.0
+NA1_5258542799,"['Teemo', 'Pantheon', 'Neeko', 'Ezreal', 'Karma']","['Lulu', 'Karthus', 'Yasuo', 'Lucian', 'Nautilus']",1.0
+NA1_5258511850,"['Garen', 'Yorick', 'Ryze', 'Kaisa', 'Leona']","['Rumble', 'Udyr', 'Akshan', 'Ezreal', 'Braum']",0.0
+NA1_5258474810,"['Aatrox', 'Yorick', 'Ryze', 'Ezreal', 'Rakan']","['Ornn', 'Hecarim', 'Xerath', 'Zeri', 'Karma']",1.0
+NA1_5258424702,"['Warwick', 'LeeSin', 'Ryze', 'Kaisa', 'Nautilus']","['Tryndamere', 'Rengar', 'Chogath', 'Jhin', 'Karma']",0.0
+NA1_5257892357,"['Ambessa', 'Sion', 'Azir', 'Lux', 'Pantheon']","['Gwen', 'Qiyana', 'Kassadin', 'Yasuo', 'Rell']",0.0
+NA1_5257871164,"['Riven', 'Lillia', 'Yasuo', 'Ashe', 'Janna']","['Ambessa', 'Gwen', 'Qiyana', 'Kaisa', 'Neeko']",1.0
+NA1_5257841837,"['Gangplank', 'Vi', 'Taliyah', 'Kalista', 'Blitzcrank']","['Fiora', 'Naafiri', 'Sylas', 'Sivir', 'Thresh']",0.0
+NA1_5257816452,"['Gangplank', 'Lillia', 'Vayne', 'Xayah', 'Nautilus']","['Azir', 'Nidalee', 'Yasuo', 'Tristana', 'Rell']",1.0
+NA1_5257792102,"['Yasuo', 'JarvanIV', 'Ahri', 'MissFortune', 'Thresh']","['Ambessa', 'Kayn', 'Neeko', 'Draven', 'Nautilus']",1.0
+NA1_5257769098,"['Garen', 'Pantheon', 'Galio', 'Ashe', 'Karma']","['Yasuo', 'Gwen', 'Swain', 'Lucian', 'Sona']",0.0
+NA1_5257747131,"['Ambessa', 'XinZhao', 'Azir', 'KogMaw', 'Sona']","['Warwick', 'Naafiri', 'Swain', 'Lucian', 'Yuumi']",0.0
+NA1_5257479358,"['Yasuo', 'Zyra', 'Vex', 'Varus', 'Pyke']","['Ekko', 'Lucian', 'Mel', 'KSante', 'Senna']",1.0
+NA1_5257478748,"['Sett', 'Zyra', 'Mel', 'Tristana', 'Rakan']","['Kennen', 'Amumu', 'Irelia', 'Heimerdinger', 'MissFortune']",1.0
+NA1_5257471141,"['Mordekaiser', 'XinZhao', 'Janna', 'Jinx', 'Taliyah']","['Samira', 'RekSai', 'Annie', 'DrMundo', 'Jax']",1.0
+NA1_5257445131,"['Ezreal', 'Yuumi', 'Skarner', 'Kayle', 'Jayce', 'Yuumi', 'Mel', 'Illaoi']","['Nasus', 'Darius', 'TwistedFate', 'Soraka', 'Ezreal', 'Anivia', 'Rell', 'Vladimir']",0.0
+NA1_5257436145,"['Belveth', 'Caitlyn', 'Zoe', 'Lulu', 'Alistar', 'Chogath', 'Taliyah', 'Ashe']","['Hecarim', 'Sejuani', 'Kayle', 'JarvanIV', 'Ambessa', 'Zac', 'Gwen', 'Zyra']",1.0
+NA1_5257431779,"['Zyra', 'Vladimir', 'Poppy', 'Alistar', 'Volibear', 'Amumu', 'Rell', 'Brand']","['Vayne', 'Akshan', 'Karthus', 'Leblanc', 'Kaisa', 'Kindred', 'Lissandra', 'Karma']",0.0
+NA1_5257418510,"['Blitzcrank', 'Viktor', 'Ivern', 'Ivern', 'Morgana', 'Talon', 'Darius', 'XinZhao']","['Mordekaiser', 'Thresh', 'Volibear', 'Briar', 'Ziggs', 'Varus', 'Ryze', 'Sion']",0.0
+NA1_5257393657,"['Akali', 'Pantheon', 'Taliyah', 'Nilah', 'Zilean']","['LeeSin', 'Gwen', 'Chogath', 'Tristana', 'Taric']",1.0
+NA1_5257356302,"['Quinn', 'Lillia', 'Azir', 'Ashe', 'Bard']","['Gnar', 'Zed', 'Sylas', 'Zyra', 'Milio']",0.0
+NA1_5257330986,"['Ambessa', 'Darius', 'Ryze', 'Kayle', 'Bard']","['Azir', 'Sejuani', 'Naafiri', 'Ashe', 'Sona']",1.0
+NA1_5257304612,"['Jayce', 'Vi', 'Taliyah', 'Lucian', 'Nami']","['Rumble', 'Nunu', 'Naafiri', 'Kaisa', 'Sett']",0.0
+NA1_5257290498,"['Gwen', 'Sejuani', 'Sylas', 'Ashe', 'MasterYi']","['Akali', 'FiddleSticks', 'Ambessa', 'Corki', 'Alistar']",0.0
+NA1_5257255392,"['Jayce', 'DrMundo', 'Ryze', 'Kaisa', 'Pyke']","['Aurora', 'Kayn', 'Ambessa', 'Ashe', 'Rell']",0.0
+NA1_5257232220,"['Gnar', 'Shaco', 'Syndra', 'MasterYi', 'Taric']","['Jayce', 'Hecarim', 'Ahri', 'Ezreal', 'Leona']",0.0
+NA1_5257207673,"['Ambessa', 'Nidalee', 'Nautilus', 'Tristana', 'Ryze']","['Warwick', 'Shaco', 'Aurora', 'MasterYi', 'Braum']",0.0
+NA1_5257188717,"['Gragas', 'Naafiri', 'Yone', 'Tristana', 'Mel']","['Gnar', 'Shaco', 'Syndra', 'Jinx', 'Karma']",1.0
+NA1_5290227434,"['Riven', 'Vi', 'Lux', 'Xayah', 'FiddleSticks']","['DrMundo', 'Zyra', 'Aurora', 'Tristana', 'Lulu']",0.0
+NA1_5289425776,"['Warwick', 'Diana', 'Ambessa', 'Ezreal', 'Alistar']","['Jayce', 'Elise', 'Ryze', 'Draven', 'Janna']",0.0
+NA1_5289396874,"['Galio', 'Diana', 'Neeko', 'Corki', 'Senna']","['Warwick', 'Nunu', 'Akali', 'Jhin', 'Rumble']",1.0
+NA1_5289356365,"['Ambessa', 'Diana', 'Syndra', 'Senna', 'Rumble']","['Jayce', 'Nunu', 'Swain', 'Jinx', 'Rakan']",1.0
+NA1_5289324167,"['Yorick', 'Khazix', 'Viktor', 'Lucian', 'Janna']","['Quinn', 'Viego', 'Ekko', 'MissFortune', 'Rakan']",0.0
+NA1_5289294621,"['Gwen', 'Nidalee', 'Corki', 'Draven', 'Velkoz']","['Quinn', 'Elise', 'Zoe', 'Kalista', 'Neeko']",0.0
+NA1_5289264567,"['Ryze', 'Nidalee', 'Gangplank', 'Varus', 'Sona']","['Gnar', 'Kayn', 'Zoe', 'Zilean', 'Neeko']",0.0
+NA1_5289233741,"['XinZhao', 'Pantheon', 'Neeko', 'Lucian', 'Sona']","['Jayce', 'Viego', 'Hwei', 'Smolder', 'Yuumi']",0.0
+NA1_5289202938,"['Yorick', 'Nidalee', 'Lissandra', 'MissFortune', 'Nautilus']","['Renekton', 'Taliyah', 'Zoe', 'Lucian', 'Braum']",1.0
+NA1_5288764427,"['Urgot', 'Vi', 'Lux', 'Kaisa', 'Pyke']","['Riven', 'Talon', 'Zoe', 'Senna', 'TahmKench']",1.0
+NA1_5288493978,"['Riven', 'Nidalee', 'Zoe', 'Tristana', 'Alistar']","['Shen', 'Diana', 'Syndra', 'Jhin', 'Poppy']",1.0
+NA1_5287974112,"['Smolder', 'Nidalee', 'Aurora', 'Lucian', 'Alistar']","['Ryze', 'JarvanIV', 'Galio', 'Draven', 'Pantheon']",1.0
+NA1_5287950371,"['Renekton', 'Volibear', 'Orianna', 'Xayah', 'Janna']","['Ambessa', 'Vi', 'Corki', 'Kaisa', 'Nidalee']",1.0
+NA1_5287922282,"['Rumble', 'Pantheon', 'Orianna', 'Senna', 'Braum']","['Ambessa', 'Nidalee', 'Yone', 'MissFortune', 'Camille']",1.0
+NA1_5287876045,"['Yorick', 'Ekko', 'Corki', 'Zeri', 'Nautilus']","['Gangplank', 'Karthus', 'TwistedFate', 'Lucian', 'Braum']",0.0
+NA1_5287845163,"['Shen', 'Vi', 'Ahri', 'Varus', 'Neeko']","['Renekton', 'Nidalee', 'Yone', 'Jhin', 'FiddleSticks']",1.0
+NA1_5287805591,"['Aatrox', 'Khazix', 'Zoe', 'Lucian', 'Leona']","['Pantheon', 'Volibear', 'Orianna', 'KogMaw', 'Lulu']",0.0
+NA1_5287771778,"['Yorick', 'Nidalee', 'Velkoz', 'Aphelios', 'Renata']","['Irelia', 'Vi', 'AurelionSol', 'Senna', 'Poppy']",1.0
+NA1_5287283081,"['Senna', 'Nidalee', 'Sett', 'Yasuo', 'Rell']","['Shen', 'Naafiri', 'Taliyah', 'Smolder', 'Nautilus']",1.0
+NA1_5287225133,"['Vladimir', 'Gwen', 'Gangplank', 'Lucian', 'Milio']","['Heimerdinger', 'Nocturne', 'Ekko', 'Xayah', 'Rakan']",1.0
+NA1_5287196378,"['Yone', 'Evelynn', 'Viktor', 'Jinx', 'Lulu']","['Ornn', 'Hecarim', 'Orianna', 'Corki', 'Neeko']",1.0
+NA1_5287163240,"['DrMundo', 'Nidalee', 'Yone', 'Zeri', 'Nautilus']","['Nasus', 'Graves', 'Azir', 'Ashe', 'Sona']",1.0
+NA1_5287127032,"['Sion', 'Elise', 'Lucian', 'Kalista', 'Karma']","['Nidalee', 'FiddleSticks', 'TwistedFate', 'Smolder', 'Pyke']",0.0
+NA1_5287085911,"['Vladimir', 'Vi', 'Neeko', 'MissFortune', 'Maokai']","['Riven', 'XinZhao', 'Akali', 'Twitch', 'Rakan']",1.0
+NA1_5287046517,"['Garen', 'Nidalee', 'Hwei', 'Lucian', 'Leona']","['Sett', 'Naafiri', 'Ahri', 'Caitlyn', 'Senna']",1.0
+NA1_5287021435,"['Aatrox', 'Nidalee', 'Gragas', 'Ezreal', 'Nami']","['Malphite', 'Shaco', 'Ekko', 'Senna', 'Thresh']",1.0
+NA1_5286657243,"['Jayce', 'Twitch', 'Azir', 'Naafiri', 'Gwen', 'Thresh', 'Ekko', 'Orianna']","['Corki', 'Sylas', 'Graves', 'TwistedFate', 'Rumble', 'Nami', 'Orianna', 'Yuumi']",1.0
+NA1_5286649041,"['Ezreal', 'Ambessa', 'Tristana', 'Aurora', 'Warwick', 'Lux', 'Lulu', 'Brand']","['Katarina', 'Udyr', 'Sett', 'Rell', 'Kassadin', 'MasterYi', 'Amumu', 'Thresh']",1.0
+NA1_5286633432,"['Mel', 'Malzahar', 'Rakan', 'Ekko', 'Smolder', 'Jhin', 'Olaf', 'Jax']","['Nami', 'Zyra', 'Naafiri', 'MonkeyKing', 'JarvanIV', 'Riven', 'Veigar', 'Neeko']",1.0
+NA1_5286621446,"['Lulu', 'XinZhao', 'Viktor', 'Kassadin', 'Tristana', 'TwistedFate', 'Sona', 'Sivir']","['Aatrox', 'Nautilus', 'Rumble', 'Gwen', 'Briar', 'Ryze', 'Shen', 'Ahri']",1.0
+NA1_5286069005,"['Anivia', 'Zed', 'Hwei', 'Nidalee', 'Seraphine']","['Yone', 'Velkoz', 'Nilah', 'Aphelios', 'Olaf']",1.0
+NA1_5286061719,"['Jayce', 'Sona', 'Gangplank', 'Lucian', 'Katarina']","['Pantheon', 'AurelionSol', 'Senna', 'Karthus', 'MonkeyKing']",1.0
+NA1_5286054805,"['Lucian', 'Ahri', 'RekSai', 'Corki', 'Bard']","['Zoe', 'Seraphine', 'Garen', 'Kindred', 'Aurora']",1.0
+NA1_5284631097,"['Anivia', 'Yuumi', 'Morgana', 'Corki', 'Camille', 'Caitlyn', 'Hwei', 'Jayce']","['Jinx', 'Urgot', 'Nautilus', 'Akali', 'Fizz', 'Kled', 'Ornn', 'TwistedFate']",1.0
+NA1_5284599636,"['Pantheon', 'Akali', 'Caitlyn', 'Jax', 'Ryze', 'Xerath', 'Nilah', 'Naafiri']","['Galio', 'Kayle', 'Diana', 'Rakan', 'Riven', 'Irelia', 'Volibear', 'Aphelios']",1.0
+NA1_5284579811,"['Malphite', 'Jhin', 'Taric', 'Brand', 'Thresh', 'Heimerdinger', 'Draven', 'Ambessa']","['Soraka', 'RekSai', 'Urgot', 'Smolder', 'Azir', 'Kaisa', 'Jax', 'Yuumi']",1.0
+NA1_5283912616,"['Malzahar', 'Volibear', 'Fiora', 'Morgana', 'Smolder', 'Amumu', 'KSante', 'Gwen']","['MonkeyKing', 'MissFortune', 'Zilean', 'Amumu', 'Darius', 'Shyvana', 'Fizz', 'Sett']",0.0
+NA1_5283889838,"['Shaco', 'Azir', 'Irelia', 'Fizz', 'TahmKench', 'Sona', 'Rumble', 'Blitzcrank']","['Tristana', 'Zyra', 'Sion', 'Quinn', 'Renekton', 'Tristana', 'Kennen', 'Qiyana']",1.0
+NA1_5283859617,"['Karthus', 'Shyvana', 'Ryze', 'MasterYi', 'TwistedFate', 'Thresh', 'Xayah', 'Heimerdinger']","['Elise', 'Diana', 'Bard', 'Sona', 'Gragas', 'Irelia', 'Thresh', 'Sett']",1.0
+NA1_5283754801,"['Vi', 'Graves', 'Katarina', 'Draven', 'Zeri', 'Nautilus', 'Seraphine', 'Ahri']","['Ahri', 'Xayah', 'Vi', 'Vi', 'Jinx', 'Orianna', 'Skarner', 'Aphelios']",0.0
+NA1_5283729759,"['Senna', 'Nocturne', 'MissFortune', 'Skarner', 'Rell', 'Cassiopeia', 'Ryze', 'Rammus']","['Kindred', 'Fizz', 'Morgana', 'Malzahar', 'Taric', 'Ambessa', 'Qiyana', 'Gangplank']",1.0
+NA1_5283424430,"['Caitlyn', 'AurelionSol', 'Xerath', 'Nasus', 'Draven', 'Nunu', 'Aatrox', 'Thresh']","['Pyke', 'Teemo', 'Nautilus', 'Riven', 'Nocturne', 'Tristana', 'Singed', 'Jax']",1.0
+NA1_5283412526,"['Vladimir', 'Nidalee', 'XinZhao', 'Janna', 'Seraphine', 'TwistedFate', 'Katarina', 'Kassadin']","['Ivern', 'Yorick', 'Morgana', 'Nunu', 'MasterYi', 'Mel', 'Sejuani', 'Nunu']",0.0
+NA1_5283388527,"['Orianna', 'Malphite', 'Pantheon', 'MonkeyKing', 'Taliyah', 'Pyke', 'Janna', 'Ivern']","['Rell', 'Tristana', 'Ryze', 'Yuumi', 'Diana', 'Gnar', 'Poppy', 'Poppy']",1.0
+NA1_5282885129,"['Karthus', 'Graves', 'Udyr', 'Gangplank', 'Senna', 'Kaisa', 'Smolder', 'Rakan']","['Pyke', 'Galio', 'LeeSin', 'MonkeyKing', 'Chogath', 'Rell', 'MonkeyKing', 'Yasuo']",1.0
+NA1_5282882153,"['Rengar', 'Rengar', 'Mel', 'Jinx', 'Zilean', 'Graves', 'Fizz', 'Talon']","['Jax', 'Orianna', 'Gnar', 'Azir', 'Soraka', 'Singed', 'Ivern', 'Galio']",0.0
+NA1_5282835042,"['Brand', 'Olaf', 'Yasuo', 'Ashe', 'Lulu']","['Kayle', 'Zed', 'Vladimir', 'Tristana', 'Sona']",0.0
+NA1_5282797897,"['Malphite', 'Viego', 'Naafiri', 'Jhin', 'Zyra']","['Mordekaiser', 'Rammus', 'Aurora', 'Twitch', 'LeeSin']",1.0
+NA1_5282774715,"['Shen', 'Khazix', 'Viktor', 'Yuumi', 'Lucian']","['Mordekaiser', 'Yorick', 'Taliyah', 'Varus', 'Janna']",1.0
+NA1_5282670135,"['Chogath', 'Zyra', 'Maokai', 'Nidalee', 'Karma', 'Aphelios', 'Veigar', 'Ashe']","['Zilean', 'Kennen', 'Jinx', 'XinZhao', 'Ornn', 'Elise', 'Varus', 'Smolder']",0.0
+NA1_5282493701,"['TwistedFate', 'Kassadin', 'Gangplank', 'Pantheon', 'Zoe', 'Twitch', 'Bard', 'Shaco']","['Sett', 'Amumu', 'Nocturne', 'Lucian', 'Naafiri', 'Trundle', 'Aurora', 'Kassadin']",1.0
+NA1_5282478663,"['Mordekaiser', 'Poppy', 'Xerath', 'Karma', 'Talon', 'Yone', 'Nasus', 'Zac']","['Leona', 'Sona', 'Kassadin', 'Neeko', 'Chogath', 'Elise', 'Twitch', 'Sett']",0.0
+NA1_5282461786,"['Karma', 'Malphite', 'Orianna', 'Pyke', 'Blitzcrank', 'Teemo', 'Galio', 'Gragas']","['Kindred', 'Shyvana', 'Sett', 'Shyvana', 'Aurora', 'Ekko', 'Elise', 'Heimerdinger']",1.0
+NA1_5282252482,"['Karma', 'Brand', 'Rakan', 'Ezreal', 'Ambessa', 'Ekko', 'Volibear', 'Naafiri']","['Fizz', 'Sejuani', 'Olaf', 'Lillia', 'Trundle', 'MasterYi', 'Anivia', 'Sona']",1.0
+NA1_5282246421,"['Cassiopeia', 'MonkeyKing', 'Smolder', 'DrMundo', 'Yuumi', 'Ornn', 'Lux', 'Smolder']","['Zyra', 'Ahri', 'Khazix', 'Twitch', 'Seraphine', 'Ziggs', 'Xayah', 'MasterYi']",0.0
+NA1_5282238573,"['Thresh', 'Vayne', 'KSante', 'Rammus', 'JarvanIV', 'Alistar', 'Ezreal', 'Jhin']","['Qiyana', 'Fizz', 'Kalista', 'Briar', 'Thresh', 'Sylas', 'Maokai', 'KogMaw']",1.0
+NA1_5282231144,"['MasterYi', 'Gangplank', 'Galio', 'Gragas', 'Kayn', 'Singed', 'KSante', 'Gragas']","['TahmKench', 'Blitzcrank', 'Sona', 'Karthus', 'Gangplank', 'Senna', 'Milio', 'Aphelios']",0.0
+NA1_5282222102,"['Lucian', 'Leona', 'Akali', 'Taliyah', 'Mordekaiser', 'Tristana', 'Viego', 'Swain']","['Viego', 'Alistar', 'Garen', 'Gwen', 'Karthus', 'Kaisa', 'Blitzcrank', 'Chogath']",1.0
+NA1_5282200523,"['Ornn', 'Viego', 'Yone', 'Ekko', 'Sona']","['Camille', 'Zyra', 'Pantheon', 'Zeri', 'Neeko']",0.0
+NA1_5282185886,"['Chogath', 'Galio', 'Warwick', 'Milio', 'Ekko', 'Bard', 'Chogath', 'Veigar']","['Vladimir', 'Swain', 'Mel', 'Urgot', 'Malphite', 'Khazix', 'Zyra', 'Kaisa']",0.0
+NA1_5282172944,"['Katarina', 'Nami', 'Udyr', 'MasterYi', 'Sylas', 'Naafiri', 'Kennen', 'Shen']","['Kennen', 'Lillia', 'Vex', 'DrMundo', 'Shaco', 'Vi', 'Corki', 'Ivern']",1.0
+NA1_5281556877,"['Qiyana', 'Caitlyn', 'Lux', 'Vladimir', 'Riven', 'Xerath', 'TwistedFate', 'Ornn']","['LeeSin', 'Zoe', 'Veigar', 'Vladimir', 'Malphite', 'JarvanIV', 'Leona', 'Thresh']",0.0
+NA1_5281462643,"['Alistar', 'Vladimir', 'Ahri', 'Alistar', 'Nilah', 'Maokai', 'Graves', 'Kaisa']","['Ornn', 'Kled', 'Yone', 'Karthus', 'AurelionSol', 'Senna', 'Kassadin', 'Jhin']",1.0
+NA1_5281442168,"['Lillia', 'Zyra', 'Lissandra', 'Nasus', 'Karthus', 'Blitzcrank', 'Alistar', 'DrMundo']","['Tristana', 'XinZhao', 'Nautilus', 'Katarina', 'Sett', 'Pantheon', 'Ekko', 'Akshan']",1.0
+NA1_5280986943,"['Senna', 'Sona', 'Sett', 'Rengar', 'Blitzcrank', 'Azir', 'Taliyah', 'Zeri']","['Sylas', 'Ornn', 'Caitlyn', 'Lillia', 'Darius', 'Heimerdinger', 'Heimerdinger', 'Shen']",1.0
+NA1_5280982049,"['Ivern', 'Viego', 'Kassadin', 'Karthus', 'Draven', 'Renata', 'Zed', 'Kayn']","['Sylas', 'Kennen', 'Viego', 'Zac', 'XinZhao', 'Zilean', 'Ekko', 'Akshan']",0.0
+NA1_5280970915,"['FiddleSticks', 'Mel', 'XinZhao', 'Mel', 'Gnar', 'Warwick', 'Mordekaiser', 'Diana']","['Teemo', 'Briar', 'Kindred', 'Ambessa', 'Ornn', 'Sona', 'Karma', 'Senna']",0.0
+NA1_5280960879,"['Tristana', 'Azir', 'Maokai', 'Sion', 'Malphite', 'Katarina', 'Hecarim', 'Rammus']","['Morgana', 'Senna', 'Pyke', 'Nidalee', 'Elise', 'Senna', 'DrMundo', 'Elise']",1.0
+NA1_5280270345,"['Seraphine', 'Jayce', 'Morgana', 'Aurora', 'Urgot']","['Milio', 'Yone', 'Zilean', 'Lucian', 'Fizz']",0.0
+NA1_5280261647,"['Vladimir', 'Karthus', 'TwistedFate', 'Jhin', 'KSante', 'MonkeyKing', 'TwistedFate', 'Senna']","['Yone', 'XinZhao', 'Nautilus', 'Nocturne', 'Xerath', 'Viktor', 'Ambessa', 'Viego']",0.0
+NA1_5280245655,"['Samira', 'Zed', 'Ahri', 'Riven', 'Yone', 'MasterYi', 'Kassadin', 'Mel']","['Karthus', 'Velkoz', 'Tryndamere', 'Mel', 'Zoe', 'Renata', 'Rengar', 'TahmKench']",1.0
+NA1_5280232482,"['Kaisa', 'Smolder', 'Vladimir', 'Karthus', 'Janna', 'Aurora', 'Pyke', 'FiddleSticks']","['Malphite', 'Talon', 'Hwei', 'Singed', 'Anivia', 'Darius', 'Chogath', 'Kaisa']",1.0
+NA1_5279510772,"['Kayn', 'Nunu', 'Tristana', 'Yone', 'Nami', 'Pantheon', 'Kaisa', 'Elise']","['Katarina', 'Lucian', 'Yasuo', 'Malzahar', 'Singed', 'Akshan', 'Zed', 'Ashe']",1.0
+NA1_5279467999,"['Zilean', 'Draven', 'Akshan', 'MasterYi', 'Yasuo', 'Akshan', 'Ezreal', 'Warwick']","['Ornn', 'Singed', 'LeeSin', 'Lissandra', 'AurelionSol', 'KSante', 'Smolder', 'Yone']",1.0
+NA1_5279460911,"['Blitzcrank', 'Rengar', 'Warwick', 'Pyke', 'Draven', 'Aphelios', 'Katarina', 'Vi']","['Lissandra', 'Ezreal', 'Irelia', 'Sejuani', 'Ziggs', 'Diana', 'Alistar', 'Yone']",0.0
+NA1_5279443329,"['Garen', 'Viego', 'Neeko', 'Ziggs', 'Tryndamere', 'Rell', 'Nilah', 'Yasuo']","['Lucian', 'Zed', 'Mordekaiser', 'Sivir', 'TahmKench', 'Nidalee', 'Karthus', 'Draven']",1.0
+NA1_5279406384,"['Yasuo', 'Lillia', 'Yone', 'Ezreal', 'Alistar']","['Jayce', 'Ivern', 'Corki', 'Varus', 'Nautilus']",1.0
+NA1_5279377539,"['Urgot', 'Nidalee', 'Corki', 'Varus', 'Nautilus']","['Azir', 'XinZhao', 'Syndra', 'Kaisa', 'Neeko']",1.0
+NA1_5279352549,"['Ambessa', 'Zed', 'Malzahar', 'Ezreal', 'Karma']","['Riven', 'Elise', 'Qiyana', 'MissFortune', 'Mel']",0.0
+NA1_5279326742,"['Jayce', 'Ekko', 'Qiyana', 'Lucian', 'Pyke']","['Riven', 'FiddleSticks', 'Gragas', 'Ezreal', 'Nautilus']",0.0
+NA1_5279292862,"['Shen', 'Zed', 'Azir', 'Lucian', 'Alistar']","['Urgot', 'Lillia', 'Irelia', 'Kaisa', 'Pyke']",1.0
+NA1_5279252347,"['Jax', 'Zed', 'Ryze', 'Ashe', 'Sona']","['Renekton', 'Viego', 'Lux', 'Jhin', 'Pyke']",1.0
+NA1_5279220394,"['Renekton', 'Ambessa', 'Katarina', 'Tristana', 'Neeko']","['Riven', 'Gwen', 'Sylas', 'Xayah', 'Nautilus']",0.0
+NA1_5278782931,"['Yorick', 'Zed', 'Cassiopeia', 'Jhin', 'Leona']","['Shen', 'Ivern', 'Ambessa', 'Varus', 'Alistar']",1.0
+NA1_5278745341,"['Sett', 'Talon', 'Leblanc', 'Karthus', 'FiddleSticks']","['Gnar', 'Zed', 'Akshan', 'Varus', 'Bard']",0.0
+NA1_5278716993,"['Shen', 'Zed', 'Leblanc', 'Jhin', 'Neeko']","['Rumble', 'Ivern', 'Jayce', 'Varus', 'Bard']",0.0
+NA1_5278683863,"['Yorick', 'Ambessa', 'Caitlyn', 'Mel', 'Sona']","['Fiora', 'Shen', 'Heimerdinger', 'Jhin', 'Nidalee']",0.0
+NA1_5278652421,"['Yone', 'Nidalee', 'Veigar', 'Smolder', 'Rakan']","['Yorick', 'Hecarim', 'Azir', 'Lucian', 'Milio']",1.0
+NA1_5278622796,"['Renekton', 'Morgana', 'Lucian', 'Varus', 'Nidalee']","['Riven', 'LeeSin', 'Aurora', 'Draven', 'Milio']",1.0
+NA1_5278597368,"['Riven', 'Shen', 'Ryze', 'Jayce', 'Nami']","['Rumble', 'Zed', 'Orianna', 'Lucian', 'Soraka']",0.0
+NA1_5278452970,"['Zyra', 'Quinn', 'Katarina', 'Nocturne', 'Nunu', 'Caitlyn', 'Zilean', 'Tristana']","['Pyke', 'Leblanc', 'Brand', 'Udyr', 'Swain', 'Ornn', 'Yuumi', 'XinZhao']",1.0
+NA1_5276542663,"['Ahri', 'Malzahar', 'Udyr', 'Warwick', 'Galio', 'Shen', 'Nocturne', 'Jinx']","['Garen', 'Elise', 'Shyvana', 'Rakan', 'Shen', 'Nasus', 'Taliyah', 'Qiyana']",1.0
+NA1_5276534815,"['Corki', 'Trundle', 'Darius', 'Velkoz', 'Khazix', 'Zeri', 'Ivern', 'Jinx']","['Shaco', 'Chogath', 'Lillia', 'Qiyana', 'Ezreal', 'Gangplank', 'Ekko', 'Garen']",1.0
+NA1_5276320123,"['Pyke', 'Jinx', 'Shyvana', 'Malzahar', 'Heimerdinger']","['Maokai', 'Orianna', 'Renekton', 'Mel', 'Quinn']",1.0
+NA1_5276312735,"['XinZhao', 'Zed', 'Akali', 'Teemo', 'Thresh']","['Sett', 'Nidalee', 'Velkoz', 'Vex', 'Renekton']",0.0
+NA1_5276297009,"['Nunu', 'Vex', 'Shen', 'TwistedFate', 'Vayne', 'Gangplank', 'Maokai', 'Akali']","['Seraphine', 'TahmKench', 'Rell', 'Yone', 'Mel', 'Senna', 'Smolder', 'Azir']",1.0
+NA1_5276285515,"['Jhin', 'Lulu', 'Darius', 'Khazix', 'Twitch', 'Khazix', 'Karthus', 'Akshan']","['Nautilus', 'Fiora', 'Zeri', 'Kaisa', 'Pyke', 'Akali', 'LeeSin', 'Lulu']",0.0
+NA1_5276270418,"['Gwen', 'Talon', 'Nidalee', 'Caitlyn', 'Katarina', 'Jhin', 'Smolder', 'Warwick']","['Vladimir', 'Udyr', 'Lux', 'Sett', 'Leblanc', 'Illaoi', 'Leona', 'Blitzcrank']",1.0
+NA1_5275661227,"['Graves', 'Hecarim', 'Cassiopeia', 'Qiyana', 'Katarina', 'Malphite', 'Caitlyn', 'Evelynn']","['Karma', 'Warwick', 'Gwen', 'DrMundo', 'Skarner', 'Zed', 'FiddleSticks', 'Swain']",0.0
+NA1_5311153226,"['Ambessa', 'Jax', 'Zoe', 'Ezreal', 'Braum']","['Renekton', 'Sejuani', 'Aurora', 'Zeri', 'Nidalee']",1.0
+NA1_5311115697,"['Ambessa', 'Jax', 'Ahri', 'Vayne', 'Nami']","['Fiora', 'Nocturne', 'Annie', 'Kaisa', 'Poppy']",0.0
+NA1_5311092628,"['Ambessa', 'Nidalee', 'Zac', 'Varus', 'Rell']","['Jax', 'Volibear', 'Ahri', 'Draven', 'Alistar']",0.0
+NA1_5311065086,"['Fiora', 'Jax', 'Kayle', 'Aphelios', 'Poppy']","['Ryze', 'Nocturne', 'Taliyah', 'Xayah', 'Rakan']",0.0
+NA1_5311030257,"['Jayce', 'Nocturne', 'TwistedFate', 'Twitch', 'Lulu']","['Jax', 'Ekko', 'Ahri', 'Aphelios', 'Thresh']",0.0
+NA1_5310692809,"['Aatrox', 'Jax', 'Syndra', 'Twitch', 'Yuumi']","['Swain', 'LeeSin', 'Ahri', 'Lucian', 'Pyke']",1.0
+NA1_5310665403,"['Kled', 'Poppy', 'Katarina', 'Senna', 'Alistar']","['Fiora', 'Pantheon', 'Lissandra', 'Mel', 'Rakan']",1.0
+NA1_5310639906,"['Urgot', 'Nidalee', 'Aurora', 'Corki', 'Alistar']","['Tristana', 'Zed', 'Akali', 'Aphelios', 'Braum']",0.0
+NA1_5310600707,"['Tristana', 'Nidalee', 'Zoe', 'Vayne', 'Alistar']","['Yorick', 'Zed', 'Sylas', 'Senna', 'Rell']",1.0
+NA1_5310585455,"['Renekton', 'Nidalee', 'Mel', 'Varus', 'Alistar']","['Vayne', 'Ekko', 'Ahri', 'Aphelios', 'Milio']",1.0
+NA1_5310531890,"['Akali', 'Poppy', 'Zoe', 'Kaisa', 'Nami']","['Ryze', 'Vi', 'Yone', 'Zeri', 'Ahri']",1.0
+NA1_5310493611,"['Lucian', 'Nidalee', 'Shen', 'Hwei', 'Yuumi']","['Vayne', 'Viego', 'Zoe', 'Varus', 'Maokai']",1.0
+NA1_5310469847,"['Darius', 'Nidalee', 'TwistedFate', 'Aphelios', 'Alistar']","['Jayce', 'DrMundo', 'Pantheon', 'Lux', 'Sejuani']",1.0
+NA1_5310447286,"['Anivia', 'Nidalee', 'Sylas', 'Varus', 'Milio']","['Teemo', 'Talon', 'TwistedFate', 'Draven', 'Blitzcrank']",1.0
+NA1_5310414732,"['Renekton', 'Nidalee', 'Tryndamere', 'Hwei', 'Warwick']","['RekSai', 'FiddleSticks', 'TwistedFate', 'KogMaw', 'Senna']",0.0
+NA1_5310102609,"['Chogath', 'LeeSin', 'Ahri', 'Yasuo', 'Nautilus']","['Kled', 'Taliyah', 'Jayce', 'Lucian', 'Janna']",0.0
+NA1_5310063696,"['Aatrox', 'Volibear', 'TwistedFate', 'Sivir', 'Alistar']","['Shen', 'Vi', 'Neeko', 'Ezreal', 'Braum']",0.0
+NA1_5310053612,"['Gragas', 'LeeSin', 'Akali', 'Senna', 'Rell']","['Nidalee', 'Naafiri', 'Ekko', 'Aphelios', 'Thresh']",1.0
+NA1_5310008965,"['Jayce', 'Vi', 'Neeko', 'Aphelios', 'Bard']","['Aatrox', 'Volibear', 'Galio', 'Swain', 'Senna']",0.0
+NA1_5309969480,"['Ambessa', 'Nidalee', 'Yasuo', 'Ziggs', 'Pyke']","['Gangplank', 'MonkeyKing', 'Zoe', 'Varus', 'Bard']",1.0
+NA1_5309939659,"['Aatrox', 'LeeSin', 'Vayne', 'Mel', 'Poppy']","['Gangplank', 'Pantheon', 'Taliyah', 'Kalista', 'Gragas']",1.0
+NA1_5309914005,"['Rumble', 'Poppy', 'Sylas', 'MissFortune', 'Braum']","['Jayce', 'Zed', 'Neeko', 'Sivir', 'Alistar']",0.0
+NA1_5309897868,"['Jayce', 'JarvanIV', 'Vayne', 'Ashe', 'Brand']","['Fiora', 'Vi', 'Zoe', 'Jhin', 'Alistar']",0.0
+NA1_5309864634,"['Yorick', 'Zed', 'TwistedFate', 'Jhin', 'Bard']","['Jayce', 'Vi', 'Veigar', 'Vayne', 'Rell']",1.0
+NA1_5309834639,"['Ambessa', 'Poppy', 'Sylas', 'Zeri', 'Bard']","['Renekton', 'Pantheon', 'Ekko', 'Sivir', 'Braum']",0.0
+NA1_5309802325,"['Aatrox', 'Poppy', 'Ahri', 'Aphelios', 'Rakan']","['Ambessa', 'Nocturne', 'Zoe', 'Ezreal', 'Bard']",1.0
+NA1_5309457244,"['Nidalee', 'Poppy', 'Syndra', 'Lucian', 'Nami']","['Ambessa', 'Zed', 'TwistedFate', 'Kaisa', 'Nautilus']",1.0
+NA1_5309431420,"['Ornn', 'Vi', 'Hwei', 'Zeri', 'Lulu']","['Teemo', 'Zed', 'Viktor', 'Swain', 'Seraphine']",0.0
+NA1_5309399811,"['KSante', 'Poppy', 'Aurora', 'Sivir', 'Rell']","['Ambessa', 'Pantheon', 'Taliyah', 'Aphelios', 'Pyke']",1.0
+NA1_5309370063,"['Gwen', 'JarvanIV', 'Corki', 'Zeri', 'Poppy']","['Ambessa', 'Volibear', 'Irelia', 'Seraphine', 'Elise']",1.0
+NA1_5309336383,"['Gwen', 'Poppy', 'Lissandra', 'Varus', 'Alistar']","['KSante', 'Zed', 'Kayle', 'Kaisa', 'Rell']",1.0
+NA1_5309300872,"['Leblanc', 'LeeSin', 'Lissandra', 'Senna', 'Soraka']","['Jayce', 'Nocturne', 'Zoe', 'Lucian', 'Nami']",0.0
+NA1_5309257955,"['Heimerdinger', 'Poppy', 'Kayle', 'Xayah', 'Elise']","['Jayce', 'Viego', 'Aurora', 'Kaisa', 'Nami']",1.0
+NA1_5309223428,"['Ornn', 'JarvanIV', 'Vex', 'Kaisa', 'Teemo']","['Kayle', 'Vi', 'Yasuo', 'Viktor', 'Rakan']",0.0
+NA1_5309197126,"['Yasuo', 'LeeSin', 'Aurora', 'Jhin', 'Elise']","['Ambessa', 'Ekko', 'Taliyah', 'Zeri', 'Mordekaiser']",1.0
+NA1_5309175259,"['Ambessa', 'JarvanIV', 'Aurora', 'Kaisa', 'Rakan']","['Riven', 'Viego', 'Ekko', 'Lucian', 'Teemo']",1.0
+NA1_5308884866,"['Illaoi', 'Seraphine', 'Jinx', 'Blitzcrank', 'Sona']","['MissFortune', 'Darius', 'Naafiri', 'Malzahar', 'Brand']",1.0
+NA1_5308871272,"['AurelionSol', 'Rumble', 'Irelia', 'Garen', 'Malzahar']","['Udyr', 'Twitch', 'Ekko', 'Briar', 'Zilean']",0.0
+NA1_5308761312,"['Renekton', 'JarvanIV', 'Azir', 'Sivir', 'Rakan']","['Gangplank', 'Jax', 'Sylas', 'MissFortune', 'Alistar']",0.0
+NA1_5308731541,"['Ambessa', 'LeeSin', 'TwistedFate', 'Xayah', 'Rakan']","['Riven', 'Vi', 'Ekko', 'Kaisa', 'Bard']",1.0
+NA1_5308699278,"['Singed', 'Nidalee', 'Sion', 'Smolder', 'Soraka']","['Shen', 'Udyr', 'Diana', 'Ezreal', 'Bard']",0.0
+NA1_5308643042,"['Riven', 'JarvanIV', 'Akali', 'Kaisa', 'Pyke']","['Aatrox', 'Sejuani', 'Sylas', 'Jhin', 'Alistar']",0.0
+NA1_5308606305,"['Jayce', 'Pantheon', 'TwistedFate', 'Mel', 'Sona']","['Riven', 'Hecarim', 'Veigar', 'Brand', 'Nami']",0.0
+NA1_5308576781,"['Ambessa', 'LeeSin', 'Zed', 'Kaisa', 'Sona']","['Renekton', 'XinZhao', 'Qiyana', 'Hwei', 'Karma']",0.0
+NA1_5305378412,"['Ambessa', 'Rammus', 'Diana', 'Tristana', 'Rell']","['Rumble', 'Ivern', 'Yone', 'Xayah', 'Rakan']",1.0
+NA1_5305353930,"['Jax', 'LeeSin', 'Diana', 'Tristana', 'Rell']","['Aatrox', 'Sejuani', 'Kayle', 'Aphelios', 'Alistar']",1.0
+NA1_5305329965,"['Garen', 'Rammus', 'Kayle', 'Zeri', 'Neeko']","['Jax', 'Nunu', 'Ryze', 'Aphelios', 'Nami']",1.0
+NA1_5301371191,"['Ambessa', 'Taliyah', 'Malzahar', 'Kaisa', 'Rakan']","['Aatrox', 'Pantheon', 'Mel', 'Ezreal', 'Janna']",1.0
+NA1_5301059563,"['Jayce', 'Nidalee', 'Ryze', 'Aphelios', 'Gragas']","['Garen', 'FiddleSticks', 'Corki', 'Lucian', 'Pantheon']",1.0
+NA1_5301030577,"['Urgot', 'Viego', 'Galio', 'Soraka', 'Rakan']","['Aurora', 'Belveth', 'Talon', 'Caitlyn', 'Lulu']",1.0
+NA1_5300146682,"['Trundle', 'Khazix', 'Ahri', 'Caitlyn', 'Thresh']","['Kayle', 'Rengar', 'Fizz', 'Ezreal', 'Teemo']",0.0
+NA1_5300131577,"['Azir', 'Nidalee', 'Sylas', 'Twitch', 'Pantheon']","['Sett', 'Sejuani', 'Nunu', 'Smolder', 'Bard']",1.0
+NA1_5300117296,"['Orianna', 'Ziggs', 'LeeSin', 'Jhin', 'Darius']","['Aphelios', 'Blitzcrank', 'Twitch', 'Sett', 'Annie']",0.0
+NA1_5300076096,"['Renekton', 'LeeSin', 'Gragas', 'Lucian', 'Karma']","['Chogath', 'Kindred', 'Riven', 'Xayah', 'Camille']",0.0
+NA1_5300041837,"['Ambessa', 'Vi', 'Mel', 'Senna', 'Leona']","['Shen', 'Zed', 'Neeko', 'Smolder', 'Nautilus']",1.0
+NA1_5300017943,"['Irelia', 'JarvanIV', 'Aurora', 'Smolder', 'Nautilus']","['Aatrox', 'Graves', 'Neeko', 'Senna', 'Rell']",1.0
+NA1_5299984298,"['Ryze', 'JarvanIV', 'Annie', 'Corki', 'Gragas']","['Jayce', 'Pantheon', 'Taliyah', 'Tristana', 'Rell']",1.0
+NA1_5299954532,"['Udyr', 'Nidalee', 'Yasuo', 'Jhin', 'Rakan']","['Yorick', 'Khazix', 'Akali', 'MissFortune', 'Soraka']",0.0
+NA1_5299919583,"['Irelia', 'Diana', 'Syndra', 'Varus', 'Soraka']","['Kled', 'Nunu', 'Riven', 'Jhin', 'Pyke']",0.0
+NA1_5299895775,"['Heimerdinger', 'Vi', 'Ahri', 'Lucian', 'Janna']","['Nidalee', 'Shaco', 'Azir', 'Sivir', 'Alistar']",1.0
+NA1_5299866292,"['Yorick', 'Zed', 'Kassadin', 'Senna', 'Sona']","['Sett', 'Vi', 'Azir', 'Kalista', 'Ashe']",0.0
+NA1_5296089857,"['Malphite', 'Ezreal', 'Zed', 'Annie', 'Rengar']","['Viktor', 'Taliyah', 'Milio', 'Khazix', 'Senna']",1.0
+NA1_5296072194,"['Olaf', 'Maokai', 'Yorick', 'Ahri', 'Aurora']","['Graves', 'Aatrox', 'Ziggs', 'Mordekaiser', 'Karma']",0.0
+NA1_5296049623,"['Khazix', 'Graves', 'Nidalee', 'Bard', 'Sivir']","['Gragas', 'Qiyana', 'JarvanIV', 'Syndra', 'Hwei']",0.0
+NA1_5295818903,"['Vladimir', 'Swain', 'Nidalee', 'Samira', 'Rell']","['Brand', 'Sivir', 'Alistar', 'Twitch', 'Chogath']",0.0
+NA1_5295798586,"['Aatrox', 'Annie', 'Qiyana', 'Maokai', 'Malzahar']","['Jhin', 'Neeko', 'Rumble', 'Zyra', 'TwistedFate']",0.0
+NA1_5293529790,"['Xerath', 'Camille', 'Veigar', 'Tryndamere', 'Azir']","['TahmKench', 'Zyra', 'Pyke', 'LeeSin', 'Velkoz']",0.0
+NA1_5293514669,"['Yuumi', 'Kassadin', 'Ezreal', 'Sett', 'Thresh']","['Ornn', 'Jax', 'Mel', 'Viktor', 'Zed']",1.0
+NA1_5293501726,"['KogMaw', 'Ashe', 'Graves', 'AurelionSol', 'LeeSin']","['Jinx', 'Karma', 'Malphite', 'Maokai', 'Pyke']",0.0
+NA1_5293486539,"['Heimerdinger', 'Elise', 'Draven', 'Corki', 'Hwei']","['Naafiri', 'Morgana', 'LeeSin', 'Thresh', 'Yone']",0.0
+NA1_5292875461,"['Thresh', 'Morgana', 'Sett', 'Riven', 'MissFortune']","['Swain', 'Yone', 'Mel', 'Lucian', 'Jhin']",1.0
+NA1_5292868218,"['Blitzcrank', 'Zoe', 'Irelia', 'KogMaw', 'Yone']","['Karma', 'Maokai', 'Qiyana', 'AurelionSol', 'Kayle']",0.0
+NA1_5292861287,"['Zeri', 'JarvanIV', 'Corki', 'Xayah', 'Pyke']","['Jax', 'Ryze', 'MonkeyKing', 'Kaisa', 'Darius']",0.0
+NA1_5292850491,"['Skarner', 'Syndra', 'Nilah', 'Mel', 'Sion']","['Kalista', 'Brand', 'Bard', 'Leona', 'Ashe']",1.0
+NA1_5292838611,"['Zed', 'Viego', 'Sylas', 'Kayle', 'Taliyah']","['Blitzcrank', 'Sett', 'Rell', 'Samira', 'Ezreal']",1.0
+NA1_5292260975,"['Elise', 'Galio', 'Senna', 'MissFortune', 'Azir']","['Thresh', 'Mel', 'Zoe', 'Ezreal', 'Gragas']",1.0
+NA1_5292254828,"['KSante', 'Aurora', 'Nocturne', 'Tristana', 'Akshan']","['Bard', 'Viego', 'Poppy', 'Pyke', 'Brand']",1.0
+NA1_5292242719,"['Jinx', 'Milio', 'Warwick', 'Irelia', 'Kalista']","['MasterYi', 'Ekko', 'Seraphine', 'Chogath', 'Skarner']",1.0
+NA1_5292236035,"['Caitlyn', 'Thresh', 'Aatrox', 'TahmKench', 'Mordekaiser']","['Velkoz', 'Mel', 'XinZhao', 'Renata', 'Gwen']",1.0
+NA1_5292170996,"['LeeSin', 'Vex', 'Jhin', 'Ornn', 'Anivia']","['Lucian', 'Xerath', 'Shaco', 'Janna', 'Quinn']",0.0
+NA1_5292162093,"['Karthus', 'Ashe', 'Zed', 'Tristana', 'Lulu']","['Nasus', 'Caitlyn', 'Sivir', 'Maokai', 'Janna']",1.0
+NA1_5292130832,"['Zilean', 'Karthus', 'Gragas', 'Ashe', 'Zed']","['DrMundo', 'Morgana', 'Samira', 'Chogath', 'AurelionSol']",0.0
+NA1_5291552192,"['Riven', 'Zed', 'Neeko', 'Mel', 'Alistar']","['Gragas', 'Brand', 'Corki', 'Ezreal', 'Braum']",0.0
+NA1_5291514544,"['Olaf', 'Taliyah', 'Corki', 'Ezreal', 'Braum']","['Sett', 'Vi', 'Annie', 'Draven', 'Nautilus']",0.0
+NA1_5291492519,"['Riven', 'Vi', 'Neeko', 'Ashe', 'Poppy']","['Jayce', 'Ambessa', 'Taliyah', 'Aphelios', 'Braum']",1.0
+NA1_5291468121,"['Ambessa', 'Nunu', 'Yone', 'Lux', 'Alistar']","['Shen', 'Vi', 'Neeko', 'Smolder', 'Blitzcrank']",0.0
+NA1_5291437513,"['Jayce', 'Udyr', 'Galio', 'Varus', 'Soraka']","['Garen', 'Vi', 'TwistedFate', 'Mel', 'Poppy']",0.0
+NA1_5291410101,"['Riven', 'Udyr', 'Zoe', 'Vayne', 'Janna']","['Sion', 'MasterYi', 'Mel', 'Samira', 'Blitzcrank']",1.0
+NA1_5291372559,"['Riven', 'Viego', 'Malzahar', 'Syndra', 'Soraka']","['Yorick', 'LeeSin', 'Leblanc', 'Jhin', 'Velkoz']",0.0
+NA1_5291344425,"['Urgot', 'Nidalee', 'Kayle', 'Varus', 'Leona']","['Yorick', 'Naafiri', 'TwistedFate', 'Senna', 'Braum']",1.0
+NA1_5291318239,"['Ambessa', 'Diana', 'Jayce', 'Jinx', 'Braum']","['Riven', 'Urgot', 'Aurora', 'Tristana', 'Nautilus']",1.0
+NA1_5291297962,"['Urgot', 'Diana', 'TwistedFate', 'Riven', 'Alistar']","['Renekton', 'Hecarim', 'Katarina', 'Ezreal', 'Rakan']",1.0
+NA1_5290873801,"['Kayle', 'Viego', 'Lissandra', 'Jhin', 'Neeko']","['Yasuo', 'XinZhao', 'Shen', 'Caitlyn', 'Karma']",1.0
+NA1_5290830565,"['Shen', 'Diana', 'Smolder', 'Lux', 'Karma']","['Camille', 'Pantheon', 'Galio', 'Varus', 'Senna']",0.0
+NA1_5290779406,"['Galio', 'Pantheon', 'Akshan', 'Lux', 'Bard']","['Rumble', 'Naafiri', 'Azir', 'Jhin', 'FiddleSticks']",1.0
+NA1_5290736453,"['Renekton', 'Viego', 'Azir', 'Lucian', 'Nami']","['Ambessa', 'Pantheon', 'Katarina', 'Ezreal', 'Karma']",1.0
+NA1_5290705087,"['Nidalee', 'Vi', 'Lissandra', 'Zeri', 'Janna']","['DrMundo', 'LeeSin', 'Sylas', 'Xayah', 'FiddleSticks']",1.0
+NA1_5290671590,"['Renekton', 'Diana', 'Akshan', 'Tristana', 'Lulu']","['Yorick', 'Nidalee', 'Ekko', 'Lucian', 'Braum']",1.0
+NA1_5290634416,"['Fiora', 'Pantheon', 'Vex', 'Senna', 'Janna']","['Aatrox', 'JarvanIV', 'Aurora', 'Jinx', 'Neeko']",1.0
+NA1_5318448730,"['Zeri', 'Amumu', 'AurelionSol', 'XinZhao', 'Kayle', 'Qiyana', 'Urgot', 'Volibear']","['Yasuo', 'Rakan', 'Leblanc', 'Lucian', 'Ambessa', 'Singed', 'Nasus', 'Jhin']",0.0
+NA1_5318071133,"['Jhin', 'Yorick', 'Zac', 'Udyr', 'Nidalee', 'Zed', 'Darius', 'JarvanIV']","['Ziggs', 'Leona', 'Ezreal', 'Rengar', 'Shaco', 'Zoe', 'Khazix', 'DrMundo']",1.0
+NA1_5318069738,"['Lucian', 'Rengar', 'Yorick', 'Soraka', 'Yuumi', 'MonkeyKing', 'Sylas', 'Jhin']","['XinZhao', 'Nidalee', 'Ziggs', 'Ekko', 'Senna', 'Kayle', 'Alistar', 'Aatrox']",1.0
+NA1_5318062264,"['Seraphine', 'Annie', 'Soraka', 'Aurora', 'Graves', 'Riven', 'Riven', 'FiddleSticks']","['Singed', 'Graves', 'Leona', 'Gragas', 'TwistedFate', 'Naafiri', 'Fiora', 'Ornn']",1.0
+NA1_5317851480,"['DrMundo', 'Lulu', 'Mordekaiser', 'Rumble', 'Malphite', 'Chogath', 'Gnar', 'Viktor']","['DrMundo', 'Rell', 'Ornn', 'Tryndamere', 'Nasus', 'Aurora', 'MissFortune', 'Katarina']",1.0
+NA1_5317476803,"['Brand', 'Gragas', 'Xerath', 'Kayle', 'Pyke', 'Nidalee', 'Aurora', 'Ivern']","['Ryze', 'Katarina', 'Akali', 'Renata', 'MonkeyKing', 'XinZhao', 'Corki', 'Pantheon']",1.0
+NA1_5317467194,"['Volibear', 'Vladimir', 'Kaisa', 'Cassiopeia', 'Rakan', 'Sylas', 'Aurora', 'DrMundo']","['Thresh', 'Nami', 'Zac', 'Talon', 'Leblanc', 'Ziggs', 'Jax', 'Zilean']",1.0
+NA1_5317457917,"['Aatrox', 'LeeSin', 'Zoe', 'Tristana', 'Soraka']","['Ambessa', 'DrMundo', 'TwistedFate', 'Zeri', 'Lulu']",1.0
+NA1_5316863136,"['Darius', 'Twitch', 'Lucian', 'KogMaw', 'Evelynn', 'Khazix', 'Lux', 'Lucian']","['Aatrox', 'Gragas', 'Karma', 'Riven', 'Pyke', 'AurelionSol', 'Neeko', 'Sylas']",1.0
+NA1_5316855346,"['DrMundo', 'Lucian', 'Cassiopeia', 'Singed', 'Syndra', 'Velkoz', 'Ahri', 'Vi']","['DrMundo', 'MasterYi', 'Ashe', 'Orianna', 'Yone', 'Nilah', 'Aatrox', 'Mel']",1.0
+NA1_5316846021,"['Twitch', 'Braum', 'Chogath', 'Sona', 'Singed', 'Draven', 'Nautilus', 'Jax']","['Khazix', 'Evelynn', 'DrMundo', 'Karma', 'Jhin', 'Akali', 'Twitch', 'Sejuani']",0.0
+NA1_5316814130,"['Taric', 'Rammus', 'Lux', 'Zeri', 'Ezreal']","['Viktor', 'Sona', 'Darius', 'Graves', 'Annie']",1.0
+NA1_5316804270,"['Sylas', 'Twitch', 'Caitlyn', 'Udyr', 'Pyke']","['Ahri', 'Riven', 'Chogath', 'Varus', 'Samira']",0.0
+NA1_5316788086,"['Ivern', 'Kayn', 'Chogath', 'DrMundo', 'Nidalee', 'Qiyana', 'Ambessa', 'Ziggs']","['Aatrox', 'Soraka', 'Sett', 'Blitzcrank', 'FiddleSticks', 'Annie', 'Trundle', 'Ziggs']",0.0
+NA1_5316766499,"['Ziggs', 'Sona', 'Aphelios', 'Sion', 'Vex', 'FiddleSticks', 'Jhin', 'Darius']","['Ambessa', 'Thresh', 'Samira', 'Kled', 'Chogath', 'Karma', 'Talon', 'Renekton']",1.0
+NA1_5316708545,"['Sion', 'Viego', 'Sylas', 'Vayne', 'Lulu']","['Jayce', 'Volibear', 'Zoe', 'Twitch', 'Nautilus']",0.0
+NA1_5316666871,"['Jax', 'Naafiri', 'Aurora', 'Lucian', 'Milio']","['Warwick', 'Kindred', 'Zoe', 'Varus', 'Elise']",1.0
+NA1_5316232033,"['Thresh', 'Shyvana', 'Jinx', 'Sion', 'Ziggs', 'Mordekaiser', 'Lucian', 'Sion']","['Sylas', 'Seraphine', 'Zilean', 'Viktor', 'Zyra', 'Milio', 'Velkoz', 'Draven']",0.0
+NA1_5316224830,"['Malzahar', 'Morgana', 'Leblanc', 'Briar', 'Qiyana']","['RekSai', 'Jinx', 'Khazix', 'Annie', 'Akshan']",1.0
+NA1_5316049564,"['Seraphine', 'Jhin', 'Pantheon', 'Ahri', 'Zeri']","['AurelionSol', 'Braum', 'Varus', 'Shen', 'Morgana']",1.0
+NA1_5316040463,"['Malphite', 'Karthus', 'Zilean', 'Xayah', 'Kaisa']","['Kayle', 'Milio', 'Maokai', 'Lulu', 'Annie']",1.0
+NA1_5316027233,"['Trundle', 'Darius', 'Sona', 'Orianna', 'Akshan']","['Lucian', 'AurelionSol', 'Rell', 'Heimerdinger', 'Yuumi']",0.0
+NA1_5316006618,"['Malphite', 'Anivia', 'Pantheon', 'Aurora', 'Lucian']","['Shen', 'Chogath', 'Janna', 'FiddleSticks', 'Ezreal']",1.0
+NA1_5315992988,"['Ekko', 'Caitlyn', 'Jhin', 'Garen', 'Nidalee']","['Varus', 'Neeko', 'Zilean', 'Darius', 'Sylas']",1.0
+NA1_5315976545,"['Taliyah', 'Lillia', 'Karthus', 'MonkeyKing', 'Jhin']","['Twitch', 'Kassadin', 'Mel', 'Amumu', 'Zilean']",1.0
+NA1_5315626155,"['Ornn', 'MissFortune', 'RekSai', 'Rell', 'Kayn', 'Milio', 'Qiyana', 'Singed']","['Seraphine', 'Mordekaiser', 'Nilah', 'Nautilus', 'Shyvana', 'Galio', 'Ornn', 'Jinx']",0.0
+NA1_5315622825,"['Vladimir', 'Velkoz', 'Lux', 'Tristana', 'Hwei', 'Udyr', 'Rammus', 'Sona']","['Shyvana', 'Velkoz', 'Akshan', 'MasterYi', 'Ornn', 'XinZhao', 'Volibear', 'Olaf']",1.0
+NA1_5315614814,"['Yasuo', 'MasterYi', 'Illaoi', 'Rumble', 'KogMaw', 'Tristana', 'MonkeyKing', 'Katarina']","['Leblanc', 'Maokai', 'Veigar', 'Pyke', 'Nami', 'Lucian', 'Lulu', 'FiddleSticks']",0.0
+NA1_5315595784,"['KSante', 'Volibear', 'Annie', 'Lucian', 'Zyra']","['Kled', 'Nidalee', 'Tristana', 'Twitch', 'Lulu']",1.0
+NA1_5315569476,"['Aatrox', 'Ambessa', 'Ekko', 'Karthus', 'Zilean']","['Jax', 'Gwen', 'Kled', 'Sivir', 'Alistar']",0.0
+NA1_5315540969,"['Vladimir', 'LeeSin', 'Lucian', 'Urgot', 'Senna']","['KSante', 'Khazix', 'Twitch', 'Karthus', 'Nautilus']",0.0
+NA1_5315509869,"['Nocturne', 'Nidalee', 'Sylas', 'Twitch', 'Nami']","['Warwick', 'Volibear', 'Syndra', 'Ezreal', 'Blitzcrank']",0.0
+NA1_5315462872,"['MonkeyKing', 'Pantheon', 'Jayce', 'Hwei', 'Janna']","['Riven', 'Kindred', 'Lissandra', 'Mel', 'Leona']",0.0
+NA1_5315412117,"['Nidalee', 'LeeSin', 'Zoe', 'KogMaw', 'Rell']","['Udyr', 'Shaco', 'Vayne', 'Varus', 'Nautilus']",1.0
+NA1_5314988488,"['Ryze', 'Nidalee', 'Yone', 'Tristana', 'Rell']","['Jayce', 'Ambessa', 'Syndra', 'Aphelios', 'Alistar']",0.0
+NA1_5314953539,"['DrMundo', 'Nidalee', 'Ryze', 'Xayah', 'Rakan']","['Sion', 'Ekko', 'Corki', 'Tristana', 'Rell']",0.0
+NA1_5314935661,"['Jax', 'Nidalee', 'Aurora', 'Ashe', 'Blitzcrank']","['Vayne', 'JarvanIV', 'Neeko', 'Aphelios', 'Bard']",0.0
+NA1_5314905819,"['Quinn', 'Jax', 'Zoe', 'Smolder', 'Karma']","['Riven', 'Volibear', 'TwistedFate', 'Senna', 'Alistar']",0.0
+NA1_5314858937,"['Camille', 'LeeSin', 'Ahri', 'Corki', 'Nautilus']","['Riven', 'Vayne', 'Mel', 'Xayah', 'Poppy']",0.0
+NA1_5314821691,"['Kayle', 'LeeSin', 'Syndra', 'Jhin', 'Nautilus']","['Ambessa', 'Pantheon', 'Hwei', 'Smolder', 'Bard']",0.0
+NA1_5314792726,"['Renekton', 'LeeSin', 'Hwei', 'Sivir', 'Karma']","['Riven', 'Volibear', 'TwistedFate', 'MissFortune', 'Rell']",1.0
+NA1_5314762473,"['Vladimir', 'Poppy', 'Zoe', 'Ezreal', 'Karma']","['Nidalee', 'JarvanIV', 'Kennen', 'Kaisa', 'Rakan']",1.0
+NA1_5314733004,"['Ambessa', 'Nidalee', 'Yasuo', 'Lux', 'Bard']","['Renekton', 'Elise', 'Yone', 'Zeri', 'Zoe']",0.0
+NA1_5314696516,"['Darius', 'Nidalee', 'Syndra', 'Singed', 'Pyke']","['Kled', 'Zed', 'Galio', 'Draven', 'FiddleSticks']",0.0
+NA1_5314682264,"['Teemo', 'LeeSin', 'Irelia', 'Karthus', 'Rell']","['Riven', 'Volibear', 'Syndra', 'Jhin', 'Rakan']",1.0
+NA1_5314424447,"['Sion', 'Morgana', 'Rumble', 'Ivern', 'Jinx', 'Nautilus', 'Skarner', 'Tryndamere']","['Kassadin', 'Azir', 'Trundle', 'Diana', 'Elise', 'Qiyana', 'Zed', 'XinZhao']",1.0
+NA1_5314416775,"['Varus', 'Mel', 'Taliyah', 'Sion', 'Senna']","['Kennen', 'Syndra', 'Karma', 'Smolder', 'Lissandra']",0.0
+NA1_5314400100,"['Riven', 'Poppy', 'Kayle', 'Ashe', 'Braum']","['Gangplank', 'LeeSin', 'Zoe', 'Aphelios', 'Thresh']",1.0
+NA1_5314370641,"['Riven', 'Belveth', 'Sylas', 'Sivir', 'Rakan']","['Jax', 'Rammus', 'Akali', 'Zeri', 'Lulu']",0.0
+NA1_5314345179,"['Renekton', 'Nidalee', 'Katarina', 'Varus', 'Nautilus']","['Riven', 'LeeSin', 'Zoe', 'Aphelios', 'Zilean']",1.0
+NA1_5314305530,"['Tryndamere', 'Poppy', 'Syndra', 'Zeri', 'Lulu']","['Sion', 'Nidalee', 'Corki', 'Tristana', 'Nautilus']",0.0
+NA1_5314267877,"['Riven', 'LeeSin', 'Sylas', 'Ziggs', 'Janna']","['Kled', 'JarvanIV', 'Akali', 'Kaisa', 'Soraka']",1.0
+NA1_5314210478,"['Ambessa', 'Nunu', 'TwistedFate', 'Xayah', 'Bard']","['Sett', 'Vi', 'Aurora', 'Jinx', 'Rakan']",0.0
+NA1_5314183803,"['Gragas', 'Poppy', 'TwistedFate', 'Jinx', 'Alistar']","['Ornn', 'Pantheon', 'Hwei', 'Twitch', 'Rakan']",1.0
+NA1_5314146239,"['Sion', 'Nidalee', 'Ryze', 'Ezreal', 'Janna']","['Gwen', 'Viego', 'Fizz', 'Kaisa', 'Rell']",1.0
+NA1_5314111954,"['Gragas', 'Nidalee', 'TwistedFate', 'Zeri', 'Karma']","['Yorick', 'Pantheon', 'Akali', 'Kled', 'Nami']",1.0
+NA1_5314085448,"['Jayce', 'LeeSin', 'Sylas', 'Zeri', 'Rell']","['Aatrox', 'Nunu', 'Akali', 'Smolder', 'Nautilus']",0.0
+NA1_5314067847,"['Fiora', 'Nidalee', 'Akali', 'Zeri', 'Rell']","['Jayce', 'LeeSin', 'Viktor', 'Tristana', 'Shen']",0.0
+NA1_5313808824,"['Milio', 'Sivir', 'Syndra', 'Camille', 'Annie']","['Senna', 'Vladimir', 'Kayn', 'Kennen', 'Renekton']",1.0
+NA1_5313616093,"['Sett', 'LeeSin', 'Viktor', 'Ezreal', 'Sona']","['Shaco', 'Hecarim', 'Garen', 'Vayne', 'Rakan']",1.0
+NA1_5313578549,"['Kled', 'Poppy', 'Ahri', 'Jhin', 'Alistar']","['LeeSin', 'Volibear', 'Aurora', 'Sivir', 'Taric']",0.0
+NA1_5313544222,"['DrMundo', 'LeeSin', 'Ahri', 'Ziggs', 'Alistar']","['Jax', 'Nidalee', 'TwistedFate', 'Sivir', 'Leona']",1.0
+NA1_5313521444,"['Teemo', 'Nidalee', 'Tristana', 'Viktor', 'Leona']","['Jax', 'LeeSin', 'TwistedFate', 'Corki', 'Thresh']",0.0
+NA1_5313493689,"['Akali', 'Poppy', 'Zed', 'Zyra', 'Elise']","['Renekton', 'Viego', 'Azir', 'Urgot', 'FiddleSticks']",1.0
+NA1_5313232915,"['Malzahar', 'Aurora', 'Katarina', 'Zoe', 'Jinx']","['Thresh', 'Kaisa', 'Sett', 'Janna', 'Caitlyn']",1.0
+NA1_5313226198,"['Xerath', 'Udyr', 'TwistedFate', 'Jhin', 'Thresh']","['Gwen', 'Kaisa', 'Lux', 'Blitzcrank', 'Illaoi']",1.0
+NA1_5313217698,"['Jayce', 'Morgana', 'AurelionSol', 'Qiyana', 'TwistedFate']","['Smolder', 'Nunu', 'Pantheon', 'Ryze', 'DrMundo']",1.0
+NA1_5313192776,"['Jayce', 'LeeSin', 'Syndra', 'Corki', 'Nautilus']","['Sion', 'FiddleSticks', 'Xerath', 'Lucian', 'Nami']",1.0
+NA1_5313155257,"['Riven', 'LeeSin', 'Vladimir', 'Draven', 'Milio']","['Jayce', 'Nidalee', 'Ryze', 'Ezreal', 'Karma']",1.0
+NA1_5313129500,"['Renekton', 'Nidalee', 'Jayce', 'Ezreal', 'Karma']","['Ryze', 'XinZhao', 'Corki', 'Jhin', 'Sona']",0.0
+NA1_5313101812,"['LeeSin', 'Viego', 'TwistedFate', 'Draven', 'Rell']","['Shen', 'Nidalee', 'Tristana', 'Ezreal', 'Leona']",0.0
+NA1_5313074533,"['Yorick', 'Poppy', 'Qiyana', 'Ezreal', 'Heimerdinger']","['Ryze', 'Vi', 'Syndra', 'Draven', 'Nautilus']",1.0
+NA1_5313047129,"['Aatrox', 'Nidalee', 'Corki', 'Varus', 'Renata']","['Urgot', 'Vi', 'Azir', 'Tristana', 'Blitzcrank']",1.0
+NA1_5313012311,"['Ornn', 'JarvanIV', 'Heimerdinger', 'Caitlyn', 'Bard']","['Aatrox', 'Pantheon', 'Zoe', 'Mel', 'Senna']",0.0
+NA1_5312984643,"['Riven', 'Nidalee', 'KSante', 'Varus', 'Sona']","['Camille', 'LeeSin', 'Zoe', 'Zilean', 'Bard']",1.0
+NA1_5312954121,"['Volibear', 'Naafiri', 'Mel', 'Kaisa', 'Elise']","['Aatrox', 'Pantheon', 'Viktor', 'Xayah', 'Neeko']",1.0
+NA1_5312566992,"['Ashe', 'Sivir', 'Akali', 'TwistedFate', 'FiddleSticks']","['Ahri', 'Vladimir', 'Renekton', 'Vayne', 'Garen']",1.0
+NA1_5312554852,"['Soraka', 'Veigar', 'LeeSin', 'KSante', 'Ziggs']","['Alistar', 'Kayle', 'Diana', 'TahmKench', 'Varus']",0.0
+NA1_5312546379,"['Yasuo', 'Seraphine', 'Qiyana', 'Azir', 'Lucian']","['FiddleSticks', 'Kindred', 'Chogath', 'Senna', 'Viktor']",1.0
+NA1_5312530179,"['Aphelios', 'Brand', 'Jayce', 'Vayne', 'Karthus']","['Velkoz', 'Janna', 'Diana', 'Kayle', 'Jinx']",0.0
+NA1_5312009139,"['Smolder', 'Lulu', 'Lillia', 'Yasuo', 'Mel']","['Viego', 'Galio', 'MissFortune', 'Brand', 'Zilean']",0.0
+NA1_5312002332,"['Kalista', 'Lucian', 'Renekton', 'KogMaw', 'Janna']","['Jinx', 'Yone', 'Gwen', 'LeeSin', 'Rammus']",1.0
+NA1_5312000174,"['Zyra', 'Jhin', 'Nami', 'Renekton', 'Azir']","['Chogath', 'Sivir', 'Nautilus', 'RekSai', 'Samira']",0.0
+NA1_5311987204,"['Samira', 'Bard', 'Udyr', 'Quinn', 'Singed']","['Lux', 'Leona', 'JarvanIV', 'Sion', 'Poppy']",1.0
+NA1_5311948306,"['Shen', 'Nidalee', 'Akali', 'Draven', 'Alistar']","['Yorick', 'Gwen', 'Zed', 'Twitch', 'Lulu']",1.0
+NA1_5311914571,"['Jayce', 'LeeSin', 'Vladimir', 'Mel', 'Zoe']","['Urgot', 'Nunu', 'Zed', 'Jhin', 'Alistar']",1.0
+NA1_5311884519,"['Ambessa', 'Poppy', 'Ryze', 'Kaisa', 'Bard']","['Urgot', 'Pantheon', 'TwistedFate', 'Jhin', 'Sylas']",1.0
+NA1_5311866195,"['Fiora', 'LeeSin', 'Galio', 'Kaisa', 'Nautilus']","['Ambessa', 'Viego', 'Akali', 'Mel', 'Poppy']",0.0
+NA1_5311835064,"['Malzahar', 'Pantheon', 'Zilean', 'Tristana', 'Braum']","['MonkeyKing', 'Nidalee', 'Ryze', 'Corki', 'Karma']",0.0
+NA1_5311796908,"['KSante', 'JarvanIV', 'Aurora', 'Tristana', 'Lulu']","['Shen', 'Karthus', 'Vayne', 'Varus', 'Thresh']",0.0
+NA1_5311753648,"['Ahri', 'Poppy', 'Katarina', 'Tristana', 'Braum']","['Kayle', 'JarvanIV', 'Sylas', 'Kalista', 'Taric']",1.0
+NA1_5311718523,"['KSante', 'LeeSin', 'Galio', 'Hwei', 'Soraka']","['Syndra', 'Nocturne', 'Mel', 'Varus', 'Elise']",0.0
+NA1_5311690546,"['Teemo', 'LeeSin', 'Ahri', 'Sivir', 'Lulu']","['KSante', 'Pantheon', 'Sylas', 'Xayah', 'Elise']",1.0
+NA1_5311380556,"['Kayle', 'Milio', 'Amumu', 'Xayah', 'Hwei']","['Ashe', 'Pantheon', 'Sejuani', 'Mordekaiser', 'Vladimir']",0.0
+NA1_5311375664,"['Ziggs', 'Twitch', 'Kindred', 'Galio', 'Maokai']","['Syndra', 'Caitlyn', 'XinZhao', 'Senna', 'Ezreal']",0.0
+NA1_5311369349,"['Tristana', 'Blitzcrank', 'Smolder', 'Malzahar', 'MonkeyKing']","['Vladimir', 'Ornn', 'DrMundo', 'Lux', 'Akshan']",1.0
+NA1_5311366923,"['Alistar', 'Singed', 'Orianna', 'Zoe', 'Graves']","['Gragas', 'Rumble', 'Senna', 'Tristana', 'Rakan']",0.0
